@@ -1,0 +1,105 @@
+TIME: 2017-05-31 09:00:57
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AYGdz30X12i1UtWYm-PkZZQstcikW9Q9S.Wxx0YhaHRZnezaQ7U2IDHlo7ac%2BfaQPvh4YlxiqFlI4","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"622826840886927E7I2YXVIADSQXWTI","validToken":"f7763111380f6fde8fff12cf6d19b541","requesToken":"c53988186510e7747b9a13835531da70","otp":"886927","time":1496196057},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-31 09:01:01
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"SEARCH_GRAPH_SUCCESS","data":{"account":{"account_id":"622826840","type":"facebook","status":"normal","date_create":"2017-05-22T06:41:24.534Z","email":"nguyen@gmail.com","device_id":"da814dd9fda1731bdb5aee84809418c1a979de7c","channel":"empty","facebook_id":"1913851152218623"},"services":{"10000":{"msi_id":"100001495371177494457","createdAt":"2017-05-21T12:52:56.879Z","channel":"empty","platform":"android","last_login":"2017-05-21T13:24:32.282Z"},"10001":{"msi_id":"100011495435285115507","createdAt":"2017-05-22T06:41:24.541Z","channel":"empty","platform":"android","last_login":"2017-05-22T09:54:29.450Z"}}},"message":"SEARCH_GRAPH_SUCCESS"}
+======================
+TIME: 2017-05-31 09:01:06
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AYGdz30X12i1UtWYm-PkZZQstcikW9Q9S.Wxx0YhaHRZnezaQ7U2IDHlo7ac%2BfaQPvh4YlxiqFlI4","client_ip":"::1"}
+RESPONSE: {"code":500001,"desc":"SEARCH_GRAPH_SUCCESS","data":{"account":{"account_id":"622826840","type":"facebook","status":"normal","date_create":"2017-05-22T06:41:24.534Z","email":"nguyen@gmail.com","device_id":"da814dd9fda1731bdb5aee84809418c1a979de7c","channel":"empty","facebook_id":"1913851152218623"},"services":{"10000":{"msi_id":"100001495371177494457","createdAt":"2017-05-21T12:52:56.879Z","channel":"empty","platform":"android","last_login":"2017-05-21T13:24:32.282Z"},"10001":{"msi_id":"100011495435285115507","createdAt":"2017-05-22T06:41:24.541Z","channel":"empty","platform":"android","last_login":"2017-05-22T09:54:29.450Z"}}},"message":"SEARCH_GRAPH_SUCCESS"}
+======================
+TIME: 2017-05-31 09:09:05
+PARAMS: {"account_id":"622826840","status":"normal"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================
+TIME: 2017-05-31 09:21:28
+PARAMS: {"account_id":"622826840","status":"normal","service_id":"10000"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500065,"desc":"UNLOCK_SUCCESS","data":[{"account_id":622826840,"channel":"empty","platform":"android","msi_id":"100001495371177494457","createdAt":"2017-05-21T12:52:56.879Z","updatedAt":"2017-05-31T02:21:28.182Z","last_login":"2017-05-21T13:24:32.282Z","status":"normal","id":"59218da82570d72b16807b02"}],"message":"Mở khóa tài khoản thành công"}
+======================
+TIME: 2017-05-31 09:21:46
+PARAMS: {"account_id":"622826840","status":"normal","service_id":"10000"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AYGdz30X12i1UtWYm-PkZZQstcikW9Q9S.Wxx0YhaHRZnezaQ7U2IDHlo7ac%2BfaQPvh4YlxiqFlI4","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"622826840normal10000639692E7I2YXVIADSQXWTI","validToken":"5c611ec8a71d3a478881affd59181be5","requesToken":"86e5878362e44341369b98867a38bb0a","otp":"639692","time":1496197306},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-31 09:21:49
+PARAMS: {"account_id":"622826840","status":"normal","service_id":"10000"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500065,"desc":"UNLOCK_SUCCESS","data":"","message":"Mở khóa tài khoản thành công"}
+======================
+TIME: 2017-05-31 09:21:57
+PARAMS: {"account_id":"622826840","status":"normal","service_id":"10000"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AarR7aaM5hvRmq8jxGnbaGu85K0NZdCps.mvrGKWHAKUAriN0erM79ztfAcbgvmm58WTKlBnda8g0","client_ip":"::1"}
+RESPONSE: {"code":500065,"desc":"UNLOCK_SUCCESS","data":"","message":"Mở khóa tài khoản thành công"}
+======================
+TIME: 2017-05-31 09:27:29
+PARAMS: {"account_id":"622826840","status":"normal"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500065,"desc":"UNLOCK_SUCCESS","data":"","message":"Mở khóa tài khoản thành công"}
+======================
+TIME: 2017-05-31 09:27:37
+PARAMS: {"account_id":"622826840","status":"normal"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AarR7aaM5hvRmq8jxGnbaGu85K0NZdCps.mvrGKWHAKUAriN0erM79ztfAcbgvmm58WTKlBnda8g0","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"622826840normal211493E7I2YXVIADSQXWTI","validToken":"0ac3686bab4df824bd97f2a29bec86aa","requesToken":"7be502181323af99f79fb65a18c71b35","otp":"211493","time":1496197657},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-31 09:27:42
+PARAMS: {"account_id":"622826840","status":"normal"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500065,"desc":"UNLOCK_SUCCESS","data":"","message":"Mở khóa tài khoản thành công"}
+======================
+TIME: 2017-05-31 09:27:48
+PARAMS: {"account_id":"622826840","status":"normal"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AarR7aaM5hvRmq8jxGnbaGu85K0NZdCps.mvrGKWHAKUAriN0erM79ztfAcbgvmm58WTKlBnda8g0","client_ip":"::1"}
+RESPONSE: {"code":500065,"desc":"UNLOCK_SUCCESS","data":"","message":"Mở khóa tài khoản thành công"}
+======================
+TIME: 2017-05-31 09:37:35
+PARAMS: {"account_id":"622826840","email":"nguyen@gmail.com","phone":"01665348054"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":100,"desc":"UPDATE_SUCCESS","data":""}
+======================
+TIME: 2017-05-31 09:40:38
+PARAMS: {"account_id":"622826840","email":"nguyen@gmail.com","phone":"01665348054"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500027,"desc":"UPDATE_INFO_SUCCESS","data":"","message":"Cập nhật thông tin thành công"}
+======================
+TIME: 2017-05-31 09:41:06
+PARAMS: {"account_id":"622826840","email":"nguyen@gmail.com","phone":"01665348054"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AarR7aaM5hvRmq8jxGnbaGu85K0NZdCps.mvrGKWHAKUAriN0erM79ztfAcbgvmm58WTKlBnda8g0","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"622826840nguyen@gmail.com01665348054298273E7I2YXVIADSQXWTI","validToken":"222164c248dff21bdb071af0eb642b35","requesToken":"19bd9cc9aa221e34d2d55182518bd8e6","otp":"298273","time":1496198466},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-31 09:41:08
+PARAMS: {"account_id":"622826840","email":"nguyen@gmail.com","phone":"01665348054"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500027,"desc":"UPDATE_INFO_SUCCESS","data":"","message":"Cập nhật thông tin thành công"}
+======================
+TIME: 2017-05-31 09:41:14
+PARAMS: {"account_id":"622826840","email":"nguyen@gmail.com","phone":"01665348054"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3ARZMEwvA2_g-3KOrKe1kslYORy3qXGGHA.TXMLeX0JuSKimwmKvEQ6xISBxVy2FWWnlJtaGy%2Foud8","client_ip":"::1"}
+RESPONSE: {"code":500027,"desc":"UPDATE_INFO_SUCCESS","data":"","message":"Cập nhật thông tin thành công"}
+======================
+TIME: 2017-05-31 09:46:04
+PARAMS: {"account_id":"622826840","password":"96e79218965eb72c92a549dd5a330112"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================
+TIME: 2017-05-31 09:57:59
+PARAMS: {"account_id":"622826840","password":"96e79218965eb72c92a549dd5a330112","type":"temp"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"62282684096e79218965eb72c92a549dd5a330112temp239408E7I2YXVIADSQXWTI","validToken":"992621ed6bda81aa85c9732cad511b25","requesToken":"a8e78adfd10c3bdca12387268269509f","otp":"239408","time":1496199479},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-31 09:58:14
+PARAMS: {"account_id":"622826840","password":"96e79218965eb72c92a549dd5a330112","type":"temp"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500022,"desc":"CHANGE_PASSWORD_SUCCESS","data":"","message":"Đổi mật khẩu thành công"}
+======================
+TIME: 2017-05-31 09:58:27
+PARAMS: {"account_id":"622826840","password":"96e79218965eb72c92a549dd5a330112","type":"temp"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3ARZMEwvA2_g-3KOrKe1kslYORy3qXGGHA.TXMLeX0JuSKimwmKvEQ6xISBxVy2FWWnlJtaGy%2Foud8","client_ip":"::1"}
+RESPONSE: {"code":500022,"desc":"CHANGE_PASSWORD_SUCCESS","data":"","message":"Đổi mật khẩu thành công"}
+======================

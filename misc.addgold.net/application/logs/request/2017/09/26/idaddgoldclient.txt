@@ -1,0 +1,4 @@
+Request Time: 	2017-09-26 13:41:02
+Url Request:	http://id.addgold.net/v1.0/verify_code?code=10f3fcb4e85da8a045ccbaaed7b1a59c&app=game&token=984274e9ff3ae2fdaa1aaaab568ee698	 {}
+Result:	{"code":100005,"desc":"AUTHORIZE_SUCCESS","message":"","app":"","data":{"access_token":"eyJoYXNoIjoiNjM2MjhiZmNjYmE2NjNkNDMwZmE5Y2VlN2EwM2YwMzYiLCJtc2lfaWQiOiIxMDAwMjE1MDI4NTc0MDE4ODc2MTkiLCJhY2NvdW50X2lkIjoiMTAwMDIxNTAyODU3NDAxODg3NjE5IiwiaWQiOjgyNjMzNzE1M30="}}
+

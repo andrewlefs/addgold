@@ -1,0 +1,10 @@
+TIME: 2017-05-31 08:50:14
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AA3xpoDroN5RSFWsrpMcYLMyeTj1dXFqI.bDfBEK41ASFu8HY39EZu%2Fm%2BkawbZGY%2B%2BgMHewveBdiw","if-none-match":"W/\"eb-Ao5xtR9zCOFySx3tjQitwA\"","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"622826840547287E7I2YXVIADSQXWTI","validToken":"c53988186510e7747b9a13835531da70","requesToken":"4846a88f0358c038807ac24148fcc2f9","otp":"547287","time":1496195414},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-31 08:50:17
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"SEARCH_GRAPH_SUCCESS","data":{"account":{"account_id":"622826840","type":"facebook","status":"normal","date_create":"2017-05-22T06:41:24.534Z","email":"nguyen@gmail.com","device_id":"da814dd9fda1731bdb5aee84809418c1a979de7c","channel":"empty","facebook_id":"1913851152218623"},"services":{"10000":{"msi_id":"100001495371177494457","createdAt":"2017-05-21T12:52:56.879Z","channel":"empty","platform":"android","last_login":"2017-05-21T13:24:32.282Z"},"10001":{"msi_id":"100011495435285115507","createdAt":"2017-05-22T06:41:24.541Z","channel":"empty","platform":"android","last_login":"2017-05-22T09:54:29.450Z"}}},"message":"SEARCH_GRAPH_SUCCESS"}
+======================

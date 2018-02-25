@@ -1,0 +1,115 @@
+TIME: 2017-06-1 10:00:22
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:00:23
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:00:35
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:00:36
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:00:39
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:20:40
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:20:42
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:20:42
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:20:43
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:20:46
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:34:02
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:34:03
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:34:03
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:34:03
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:34:03
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:34:04
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:34:04
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 10:46:15
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"SEARCH_GRAPH_SUCCESS","data":{"account":{"account_id":"622826840","type":"facebook","status":"lock","date_create":"2017-05-22T06:41:24.534Z","email":"nguyen@gmail.com","device_id":"da814dd9fda1731bdb5aee84809418c1a979de7c","channel":"empty","facebook_id":"1913851152218623"},"services":{"10000":{"msi_id":"100001495435285115507","createdAt":"2017-05-21T12:52:56.879Z","channel":"empty","platform":"android","last_login":"2017-05-21T13:24:32.282Z","status":"lock"},"10001":{"msi_id":"100011495435285115507","createdAt":"2017-05-22T06:41:24.541Z","channel":"empty","platform":"android","last_login":"2017-05-22T09:54:29.450Z"}}},"message":"SEARCH_GRAPH_SUCCESS"}
+======================
+TIME: 2017-06-1 10:47:53
+PARAMS: {"account_id":"ngoctugobe"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"SEARCH_GRAPH_SUCCESS","data":{"account":{"account_id":"ngoctugobe","account":"ngoctugobe","type":"default","status":"normal","date_create":"2017-01-09T08:16:17.444Z","email":"unomdk@gmail.com","device_id":"41c2d1c3070dabe25fb15e13b0f32ad6240a808d","channel":""},"services":{"10000":{"msi_id":"100001483949777558244","createdAt":"2017-01-09T08:16:17.452Z","channel":"","platform":"ios","last_login":"2017-05-31T09:06:37.117Z"},"10001":{"msi_id":"100011484799607878692","createdAt":"2017-01-19T04:20:07.134Z","channel":"","platform":"ios","last_login":"2017-05-09T09:24:11.690Z"},"10003":{"msi_id":"100031493796016463891","createdAt":"2017-05-03T07:20:16.489Z","channel":"","platform":"ios","last_login":"2017-05-03T07:20:16.524Z"}}},"message":"SEARCH_GRAPH_SUCCESS"}
+======================
+TIME: 2017-06-1 10:54:49
+PARAMS: {"account_id":"ngoctugobe"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"SEARCH_GRAPH_SUCCESS","data":{"account":{"account_id":"ngoctugobe","account":"ngoctugobe","type":"default","status":"normal","date_create":"2017-01-09T08:16:17.444Z","email":"unomdk@gmail.com","device_id":"41c2d1c3070dabe25fb15e13b0f32ad6240a808d","channel":""},"services":{"10000":{"msi_id":"100001483949777558244","createdAt":"2017-01-09T08:16:17.452Z","channel":"","platform":"ios","last_login":"2017-05-31T09:06:37.117Z"},"10001":{"msi_id":"100011484799607878692","createdAt":"2017-01-19T04:20:07.134Z","channel":"","platform":"ios","last_login":"2017-05-09T09:24:11.690Z"},"10003":{"msi_id":"100031493796016463891","createdAt":"2017-05-03T07:20:16.489Z","channel":"","platform":"ios","last_login":"2017-05-03T07:20:16.524Z"}}},"message":"SEARCH_GRAPH_SUCCESS"}
+======================
+TIME: 2017-06-1 10:55:02
+PARAMS: {"account_id":"100011495418360959006"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"SEARCH_GRAPH_SUCCESS","data":{"account":{"account_id":"100011495418360959006","type":"device","status":"normal","date_create":"2017-05-22T01:59:19.658Z","device_id":"a759eaf6e7941f28c828af799e02d2374e3f006f","channel":"3|pp|1.0|GP|psv_2_store"},"services":{"10001":{"msi_id":"100011495418360959006","createdAt":"2017-05-22T01:59:19.680Z","channel":"3|pp|1.0|GP|psv_2_store","platform":"android","last_login":"2017-05-22T06:37:50.602Z"}}},"message":"SEARCH_GRAPH_SUCCESS"}
+======================
+TIME: 2017-06-1 10:55:34
+PARAMS: {"account_id":"ngoctugobe"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"SEARCH_GRAPH_SUCCESS","data":{"account":{"account_id":"ngoctugobe","account":"ngoctugobe","type":"default","status":"normal","date_create":"2017-01-09T08:16:17.444Z","email":"unomdk@gmail.com","device_id":"41c2d1c3070dabe25fb15e13b0f32ad6240a808d","channel":""},"services":{"10000":{"msi_id":"100001483949777558244","createdAt":"2017-01-09T08:16:17.452Z","channel":"","platform":"ios","last_login":"2017-05-31T09:06:37.117Z"},"10001":{"msi_id":"100011484799607878692","createdAt":"2017-01-19T04:20:07.134Z","channel":"","platform":"ios","last_login":"2017-05-09T09:24:11.690Z"},"10003":{"msi_id":"100031493796016463891","createdAt":"2017-05-03T07:20:16.489Z","channel":"","platform":"ios","last_login":"2017-05-03T07:20:16.524Z"}}},"message":"SEARCH_GRAPH_SUCCESS"}
+======================
+TIME: 2017-06-1 10:57:13
+PARAMS: {"account_id":"100011495418360959006"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"SEARCH_GRAPH_SUCCESS","data":{"account":{"account_id":"100011495418360959006","type":"device","status":"normal","date_create":"2017-05-22T01:59:19.658Z","device_id":"a759eaf6e7941f28c828af799e02d2374e3f006f","channel":"3|pp|1.0|GP|psv_2_store"},"services":{"10001":{"msi_id":"100011495418360959006","createdAt":"2017-05-22T01:59:19.680Z","channel":"3|pp|1.0|GP|psv_2_store","platform":"android","last_login":"2017-05-22T06:37:50.602Z"}}},"message":"SEARCH_GRAPH_SUCCESS"}
+======================

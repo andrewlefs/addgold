@@ -1,0 +1,168 @@
+Request Time: 	2017-04-24 16:00:25
+Url Request:	http://graph.addgold.net/game/verify_access_token_v2?access_token=eyJoYXNoIjoiNDNiNTVlZDgzMmY1NWMzODU4MDJkMTQyNjc5ZDZjMGEiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100001484107858481695","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:00:40
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiNDNiNTVlZDgzMmY1NWMzODU4MDJkMTQyNjc5ZDZjMGEiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:12:11
+Url Request:	http://graph.addgold.net/game/verify_access_token_v2?access_token=eyJoYXNoIjoiMzYwYmY4MDIwM2I4NTViOTNlMWQ2ZTYyZjdhM2I0NGYiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100001484107858481695","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:12:17
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiMzYwYmY4MDIwM2I4NTViOTNlMWQ2ZTYyZjdhM2I0NGYiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:14:50
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiMzYwYmY4MDIwM2I4NTViOTNlMWQ2ZTYyZjdhM2I0NGYiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:20:42
+Url Request:	http://graph.addgold.net/game/verify_access_token_v2?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100001484107858481695","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:20:53
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:21:20
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:22:30
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:23:09
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:25:35
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:26:22
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:26:45
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:27:54
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:28:17
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:28:31
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:29:45
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:30:07
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:33:12
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:33:40
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:34:25
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:35:28
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:36:53
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:39:03
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:39:39
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:40:04
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:45:00
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:45:13
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:45:59
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:46:39
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:51:29
+Url Request:	http://graph.addgold.net/game/verify_access_token_v2?access_token=eyJoYXNoIjoiNDYzMDc5ZGRiYTJhNWFlZGIzZjkwZmY4NzkzN2YzNjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100001484107858481695","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:51:33
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiNDYzMDc5ZGRiYTJhNWFlZGIzZjkwZmY4NzkzN2YzNjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:51:36
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiNDYzMDc5ZGRiYTJhNWFlZGIzZjkwZmY4NzkzN2YzNjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:52:27
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiNDYzMDc5ZGRiYTJhNWFlZGIzZjkwZmY4NzkzN2YzNjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:52:29
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiNDYzMDc5ZGRiYTJhNWFlZGIzZjkwZmY4NzkzN2YzNjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 16:52:43
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiNDYzMDc5ZGRiYTJhNWFlZGIzZjkwZmY4NzkzN2YzNjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 17:03:06
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 17:03:09
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10000	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100001484107858481695","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 18:34:53
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10000	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100001484107858481695","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 18:50:24
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-04-24 18:50:36
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=0	 {}
+Result:	{"code":100,"desc":"INVALID_TOKEN","data":"","message":"INVALID_TOKEN"}
+
+Request Time: 	2017-04-24 18:50:42
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=0	 {}
+Result:	{"code":100,"desc":"INVALID_TOKEN","data":"","message":"INVALID_TOKEN"}
+

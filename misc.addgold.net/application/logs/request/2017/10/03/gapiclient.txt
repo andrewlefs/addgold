@@ -1,0 +1,240 @@
+Request Time: 	2017-10-03 11:50:17
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 15:39:31
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 15:39:58
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 15:56:22
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:00:05
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:01:41
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:05:32
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:06:20
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:09:32
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:11:57
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:24:05
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:27:39
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:30:22
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:30:49
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:32:15
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:33:34
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:39:38
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:40:08
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:41:33
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:41:45
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:42:55
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:43:52
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10009&account_id=100091506399341652423&server_id=1&account_name=dklp12&time_stamp=2017-10-03+16%3A43%3A52&app=game&token=e4bf17e2f66d3846f7c8a39b3f60231c	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"occupation":0,"changelifecount":0,"isdel":0,"zoneid":1,"character_id":200042,"character_name":"dklp","lv":43}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-10-03 16:45:04
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:45:18
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10009&account_id=100091506399341652423&server_id=1&account_name=dklp12&time_stamp=2017-10-03+16%3A45%3A17&app=game&token=3a7748c3e51ecaba4484d20ed9b61333	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"occupation":0,"changelifecount":0,"isdel":0,"zoneid":1,"character_id":200042,"character_name":"dklp","lv":43}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-10-03 16:46:43
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:47:31
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10009&account_id=100091506399341652423&server_id=1&account_name=dklp12&time_stamp=2017-10-03+16%3A47%3A30&app=game&token=a2f308fd21943887b6031a52f15d265d	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"occupation":0,"changelifecount":0,"isdel":0,"zoneid":1,"character_id":200042,"character_name":"dklp","lv":43}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-10-03 16:47:42
+Url Request:	https://gapi.addgold.net/?control=paycard&func=pay_card&platform=wnap_unknown&ip=127.0.0.1&lang=vn&telco=vms&serial=3333333333333&pin=3333333333333&info=%7B%22character_id%22%3A200042%2C%22character_name%22%3A%22dklp%22%2C%22account_name%22%3A%22dklp12%22%2C%22server_id%22%3A%221%22%2C%22card_type%22%3A0%2C%22platform_device%22%3A%22unknown%22%7D&card=vms&service_id=10009&service_name=10009&ppgame_id=10009&account=dklp12&account_id=100091506399341652423&character_id=200042&character_name=dklp&server_id=1&transaction_id=noOBO4lBlJ&app=game&token=2cc0d0df5f9d51b9dc23252ed66ddbfe	 {}
+Result:	{"code":null,"desc":"YOUR IP 113.161.93.54 IS REJECT","data":"YOUR IP 113.161.93.54 IS REJECT","message":"YOUR IP 113.161.93.54 IS REJECT"}
+
+Request Time: 	2017-10-03 16:49:13
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:55:02
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:55:24
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:55:37
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10009&account_id=100091506399341652423&server_id=1&account_name=dklp12&time_stamp=2017-10-03+16%3A55%3A36&app=game&token=e941559f81c280e1c3438ccfb629d626	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"occupation":0,"changelifecount":0,"isdel":0,"zoneid":1,"character_id":200042,"character_name":"dklp","lv":43}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-10-03 16:56:59
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:58:11
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10009&app=game&token=201721b758ec402d083f57d01e10a6ae	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"34","server_id":"1","server_name":"S1-Test Server [1]","server_game_address":"103.200.20.189:83","create_date":"2017-09-25 00:00:00","game":"10009","status":"1","server_id_merge":"1","is_test_server":"1","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:59:12
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"4","server_id":"1","server_name":"S1 - Ti\u00eau Vi\u00eam [1]","server_game_address":"","create_date":"2017-03-29 00:00:00","game":"10001","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 16:59:32
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10002&app=game&token=0ff9498c02571a438a3a7edbca8da99f	 {}
+Result:	{"code":500103,"desc":"GET_INFO_FAIL","data":null,"message":"L\u00e2y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u1ea5t b\u1ea1i"}
+
+Request Time: 	2017-10-03 17:00:04
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"1","server_id":"1","server_name":"KOK - S1 [1]","server_game_address":"","create_date":"2017-06-30 00:00:00","game":"10000","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"},{"id":"35","server_id":"2","server_name":"KOK - S2 [2]","server_game_address":"","create_date":"2017-10-02 08:23:15","game":"10000","status":"1","server_id_merge":"2","is_test_server":"1","is_maintenance":"1","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:00:17
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10000&account_id=100001484107858481695&server_id=1&account_name=saunghia&time_stamp=2017-10-03+17%3A00%3A17&app=game&token=6a419a497f4819804122354a23f0f646	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"Empire07841","character_id":"19243843000001","level":"1"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-10-03 17:00:21
+Url Request:	https://gapi.addgold.net/?control=game&func=get_promo_items&account_id=100001484107858481695&character_id=19243843000001&server_ids=%5B%221%22%5D&service_id=10000&service_name=10000&app=game&token=144794fb0a75429ced39d407492aedbf	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":null,"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:07:34
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"1","server_id":"1","server_name":"KOK - S1 [1]","server_game_address":"","create_date":"2017-06-30 00:00:00","game":"10000","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"},{"id":"35","server_id":"2","server_name":"KOK - S2 [2]","server_game_address":"","create_date":"2017-10-02 08:23:15","game":"10000","status":"1","server_id_merge":"2","is_test_server":"1","is_maintenance":"1","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:07:47
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10000&account_id=100001484107858481695&server_id=1&account_name=saunghia&time_stamp=2017-10-03+17%3A07%3A47&app=game&token=0e29f03546195e440832346613a16717	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"Empire07841","character_id":"19243843000001","level":"1"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-10-03 17:07:51
+Url Request:	https://gapi.addgold.net/?control=game&func=get_promo_items&account_id=100001484107858481695&character_id=19243843000001&server_ids=%5B%221%22%5D&service_id=10000&service_name=10000&app=game&token=144794fb0a75429ced39d407492aedbf	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":null,"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:08:02
+Url Request:	https://gapi.addgold.net/?control=paycard&func=pay_card&platform=wnap_unknown&ip=127.0.0.1&lang=vn&telco=vina&serial=34343&pin=434343&info=%7B%22character_id%22%3A%2219243843000001%22%2C%22character_name%22%3A%22Empire07841%22%2C%22account_name%22%3A%22saunghia%22%2C%22server_id%22%3A%221%22%2C%22card_type%22%3A0%2C%22platform_device%22%3A%22unknown%22%7D&card=vina&service_id=10000&service_name=10000&ppgame_id=10000&account=saunghia&account_id=100001484107858481695&character_id=19243843000001&character_name=Empire07841&server_id=1&transaction_id=77gJ4B3bxV&app=game&token=3f9619fae2588637494c3eb9049b9d2b	 {}
+Result:	{"code":null,"desc":"YOUR IP 113.161.93.54 IS REJECT","data":"YOUR IP 113.161.93.54 IS REJECT","message":"YOUR IP 113.161.93.54 IS REJECT"}
+
+Request Time: 	2017-10-03 17:10:03
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"1","server_id":"1","server_name":"KOK - S1 [1]","server_game_address":"","create_date":"2017-06-30 00:00:00","game":"10000","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"},{"id":"35","server_id":"2","server_name":"KOK - S2 [2]","server_game_address":"","create_date":"2017-10-02 08:23:15","game":"10000","status":"1","server_id_merge":"2","is_test_server":"1","is_maintenance":"1","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:12:15
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"1","server_id":"1","server_name":"KOK - S1 [1]","server_game_address":"","create_date":"2017-06-30 00:00:00","game":"10000","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"},{"id":"35","server_id":"2","server_name":"KOK - S2 [2]","server_game_address":"","create_date":"2017-10-02 08:23:15","game":"10000","status":"1","server_id_merge":"2","is_test_server":"1","is_maintenance":"1","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:13:19
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"1","server_id":"1","server_name":"KOK - S1 [1]","server_game_address":"","create_date":"2017-06-30 00:00:00","game":"10000","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"},{"id":"35","server_id":"2","server_name":"KOK - S2 [2]","server_game_address":"","create_date":"2017-10-02 08:23:15","game":"10000","status":"1","server_id_merge":"2","is_test_server":"1","is_maintenance":"1","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:13:50
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"1","server_id":"1","server_name":"KOK - S1 [1]","server_game_address":"","create_date":"2017-06-30 00:00:00","game":"10000","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"},{"id":"35","server_id":"2","server_name":"KOK - S2 [2]","server_game_address":"","create_date":"2017-10-02 08:23:15","game":"10000","status":"1","server_id_merge":"2","is_test_server":"1","is_maintenance":"1","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:16:48
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"1","server_id":"1","server_name":"KOK - S1 [1]","server_game_address":"","create_date":"2017-06-30 00:00:00","game":"10000","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"},{"id":"35","server_id":"2","server_name":"KOK - S2 [2]","server_game_address":"","create_date":"2017-10-02 08:23:15","game":"10000","status":"1","server_id_merge":"2","is_test_server":"1","is_maintenance":"1","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:17:48
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"1","server_id":"1","server_name":"KOK - S1 [1]","server_game_address":"","create_date":"2017-06-30 00:00:00","game":"10000","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"},{"id":"35","server_id":"2","server_name":"KOK - S2 [2]","server_game_address":"","create_date":"2017-10-02 08:23:15","game":"10000","status":"1","server_id_merge":"2","is_test_server":"1","is_maintenance":"1","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:18:00
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"1","server_id":"1","server_name":"KOK - S1 [1]","server_game_address":"","create_date":"2017-06-30 00:00:00","game":"10000","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"},{"id":"35","server_id":"2","server_name":"KOK - S2 [2]","server_game_address":"","create_date":"2017-10-02 08:23:15","game":"10000","status":"1","server_id_merge":"2","is_test_server":"1","is_maintenance":"1","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:18:12
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"1","server_id":"1","server_name":"KOK - S1 [1]","server_game_address":"","create_date":"2017-06-30 00:00:00","game":"10000","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"},{"id":"35","server_id":"2","server_name":"KOK - S2 [2]","server_game_address":"","create_date":"2017-10-02 08:23:15","game":"10000","status":"1","server_id_merge":"2","is_test_server":"1","is_maintenance":"1","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:18:24
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"1","server_id":"1","server_name":"KOK - S1 [1]","server_game_address":"","create_date":"2017-06-30 00:00:00","game":"10000","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"},{"id":"35","server_id":"2","server_name":"KOK - S2 [2]","server_game_address":"","create_date":"2017-10-02 08:23:15","game":"10000","status":"1","server_id_merge":"2","is_test_server":"1","is_maintenance":"1","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:18:36
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"1","server_id":"1","server_name":"KOK - S1 [1]","server_game_address":"","create_date":"2017-06-30 00:00:00","game":"10000","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"},{"id":"35","server_id":"2","server_name":"KOK - S2 [2]","server_game_address":"","create_date":"2017-10-02 08:23:15","game":"10000","status":"1","server_id_merge":"2","is_test_server":"1","is_maintenance":"1","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:19:13
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10000&account_id=100001484107858481695&server_id=1&account_name=saunghia&time_stamp=2017-10-03+17%3A19%3A13&app=game&token=2fbb07b87e849a67549e62afd8983200	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"Empire07841","character_id":"19243843000001","level":"1"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-10-03 17:19:17
+Url Request:	https://gapi.addgold.net/?control=game&func=get_promo_items&account_id=100001484107858481695&character_id=19243843000001&server_ids=%5B%221%22%5D&service_id=10000&service_name=10000&app=game&token=144794fb0a75429ced39d407492aedbf	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":null,"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:26:07
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"4","server_id":"1","server_name":"S1 - Ti\u00eau Vi\u00eam [1]","server_game_address":"","create_date":"2017-03-29 00:00:00","game":"10001","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:30:11
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"4","server_id":"1","server_name":"S1 - Ti\u00eau Vi\u00eam [1]","server_game_address":"","create_date":"2017-03-29 00:00:00","game":"10001","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:31:08
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&account_name=saunghia&time_stamp=2017-10-03+17%3A31%3A08&app=game&token=6878ecf85c38698f1bdbb43088af8b1b	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"S\u01a1nH\u00e0n","character_id":"1391","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-10-03 17:32:13
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"4","server_id":"1","server_name":"S1 - Ti\u00eau Vi\u00eam [1]","server_game_address":"","create_date":"2017-03-29 00:00:00","game":"10001","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-10-03 17:32:29
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&account_name=saunghia&time_stamp=2017-10-03+17%3A32%3A29&app=game&token=68b5affb725d92b4e7c89193ec390a0c	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"S\u01a1nH\u00e0n","character_id":"1391","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-10-03 17:32:54
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"4","server_id":"1","server_name":"S1 - Ti\u00eau Vi\u00eam [1]","server_game_address":"","create_date":"2017-03-29 00:00:00","game":"10001","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+

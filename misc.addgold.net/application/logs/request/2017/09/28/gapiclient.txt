@@ -1,0 +1,12 @@
+Request Time: 	2017-09-28 09:31:13
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"1","server_id":"1","server_name":"KOK - S1 [1]","server_game_address":"","create_date":"2017-06-30 00:00:00","game":"10000","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-09-28 09:31:26
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"1","server_id":"1","server_name":"KOK - S1 [1]","server_game_address":"","create_date":"2017-06-30 00:00:00","game":"10000","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-09-28 09:31:34
+Url Request:	https://gapi.addgold.net/?control=game&func=get_promo_items&account_id=100001484107858481695&character_id=19243843000001&server_ids=%5B%221%22%5D&service_id=10000&service_name=10000&app=game&token=144794fb0a75429ced39d407492aedbf	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":null,"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+

@@ -1,0 +1,36 @@
+Request Time: 	2017-08-14 10:32:54
+Url Request:	http://graph.addgold.net/game/verify_access_token_v2?access_token=eyJoYXNoIjoiNThkZDk1M2IxYjdkYzJiMjZkNmY5ZjgyNjQ4Y2NiMmIiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100001484107858481695","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-08-14 10:33:21
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiNThkZDk1M2IxYjdkYzJiMjZkNmY5ZjgyNjQ4Y2NiMmIiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10008	 {}
+Result:	{"code":100,"desc":"ACCOUNT_EXITS","data":""}
+
+Request Time: 	2017-08-14 10:33:55
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiNThkZDk1M2IxYjdkYzJiMjZkNmY5ZjgyNjQ4Y2NiMmIiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10008	 {}
+Result:	{"code":100,"desc":"ACCOUNT_EXITS","data":""}
+
+Request Time: 	2017-08-14 10:33:59
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiNThkZDk1M2IxYjdkYzJiMjZkNmY5ZjgyNjQ4Y2NiMmIiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10008	 {}
+Result:	{"code":100,"desc":"ACCOUNT_EXITS","data":""}
+
+Request Time: 	2017-08-14 10:34:22
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiNThkZDk1M2IxYjdkYzJiMjZkNmY5ZjgyNjQ4Y2NiMmIiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10008	 {}
+Result:	{"code":100,"desc":"ACCOUNT_EXITS","data":""}
+
+Request Time: 	2017-08-14 11:02:31
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiNThkZDk1M2IxYjdkYzJiMjZkNmY5ZjgyNjQ4Y2NiMmIiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10008	 {}
+Result:	{"code":100,"desc":"ACCOUNT_EXITS","data":""}
+
+Request Time: 	2017-08-14 11:03:45
+Url Request:	http://graph.addgold.net/game/verify_access_token_v2?access_token=eyJoYXNoIjoiYWFkMDNhMDVmZDk2Mzg0OWI2ZTNmMWViMmUzYjQ4ODciLCJtc2lfaWQiOiIxMDAwMDE0OTkzMzI5NDk0NDA0MDQiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDk5MzMyOTQ5NDQwNDA0IiwiaWQiOjk5NjM5OTIyM30%3D	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":996399223,"account_id":"100001499332949440404","account":"anhnt6969","email":"ntuananhtk@gmail.com","channel":"2|me|1.6.0|Appstore|psv_1_store","device_id":"b3712cfb2cdf65bcffe64a883e4b28a1a8f83c0c"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-08-14 11:03:54
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiYWFkMDNhMDVmZDk2Mzg0OWI2ZTNmMWViMmUzYjQ4ODciLCJtc2lfaWQiOiIxMDAwMDE0OTkzMzI5NDk0NDA0MDQiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDk5MzMyOTQ5NDQwNDA0IiwiaWQiOjk5NjM5OTIyM30%3D&app_id=10008	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":996399223,"account_id":"100081499133424824865","account":"anhnt6969","email":"ntuananhtk@gmail.com","channel":"2|me|1.6.0|Appstore|psv_1_store","device_id":"b3712cfb2cdf65bcffe64a883e4b28a1a8f83c0c","type":"default","platform":"ios"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-08-14 11:04:59
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiYWFkMDNhMDVmZDk2Mzg0OWI2ZTNmMWViMmUzYjQ4ODciLCJtc2lfaWQiOiIxMDAwMDE0OTkzMzI5NDk0NDA0MDQiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDk5MzMyOTQ5NDQwNDA0IiwiaWQiOjk5NjM5OTIyM30%3D&app_id=10008	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":996399223,"account_id":"100081499133424824865","account":"anhnt6969","email":"ntuananhtk@gmail.com","channel":"2|me|1.6.0|Appstore|psv_1_store","device_id":"b3712cfb2cdf65bcffe64a883e4b28a1a8f83c0c","type":"default","platform":"ios"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+

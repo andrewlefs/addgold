@@ -1,0 +1,15 @@
+TIME: 2017-05-31 12:02:21
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495435285115507","ref_msi":"100001495371177494457"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500000,"desc":"TRANSFER_ACCOUNT_FAIL","data":"","message":"Chuyển tài khoản thất bại"}
+======================
+TIME: 2017-05-31 12:04:36
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495435285115507","ref_msi":"100001495371177494457"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"TRANSFER_ACCOUNT_SUCCESS","data":[{"app":"10001","msi_id":"100011495418360959006","createdAt":"2017-05-22T01:59:19.680Z"},{"app":"10000","msi_id":"100001495371177494457","createdAt":"2017-05-22T01:59:19.680Z"}],"message":"Chuyển tài khoản thành công"}
+======================
+TIME: 2017-05-31 12:08:40
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495371177494457","ref_msi":"100001495435285115507"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"TRANSFER_ACCOUNT_SUCCESS","data":{"app":"10000","msi_id":"100001495435285115507","createdAt":"2017-05-22T01:59:19.680Z"},"message":"Chuyển tài khoản thành công"}
+======================

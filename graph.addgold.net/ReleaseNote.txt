@@ -1,0 +1,116 @@
+======================================================================================
+API GLOBAL 0.0.1
+======================================================================================
+* Sua loi:
+  - verify_access_token
+  - register: Trả lỗi đã tồn tại email, account
+  - get_info: Giảm tải truy vấn db
+  - loại bỏ lowerCase
+  - bổ sung chứng thực requireLogin trong WebController
+======================================================================================
+04/10/2016
+======================================================================================
+* Sua loi:
+  - log: Log trước thực thi, log thêm ip client
+  - init: redis lỗi trả về NORMAL_STATE
+* Bo sung:
+  - last_login: Bổ sung last_login trong MSIService
+  - authorize_device: login nhanh bằng id device
+  - sso: SSO từ nhiều game khác nhau trên 1 thiết bị
+======================================================================================
+05/10/2016
+======================================================================================
+* Sua loi:
+  - Đổi method authorize_device thành register_quickly
+  - Fix lỗi ràng buộc param truyền vào không được null, undefine
+  - Fix lỗi SSO trả về đúng msi service
+  - Fix reponse code
+* Bo sung:
+  - update_channel: Cập nhật channel cho msi service
+======================================================================================
+06/10/2016
+======================================================================================
+* Sua loi:
+  - Logout xóa hết access_token
+* Bo sung:
+  - verify_access_token_v2 trong GameController
+  - maping_device: Cập nhật thông tin account, email cho tài khoản đăng ký nhanh
+  - bổ sung thêm trường type khi authorize, authorize_facebook, authorize_google, register, register_quikly, verify_access_token
+  - bổ sung thêm trường status khi authorize, authorize_facebook, authorize_google, register_quikly, verify_access_token
+======================================================================================
+07/10/2016
+======================================================================================
+* Bo sung:
+  - unlock account
+======================================================================================
+10/10/2016
+======================================================================================
+* note:
+    /user/authorize
+    type: default
+
+    /user/authorize_facebook
+    type: facebook
+
+    /user/authorize_google
+    type: google
+
+    /user/register_quickly
+    type: device
+
+    /user/register
+    type: default
+
+    /user/verify_access_token
+    type: default | facebook | google | device
+
+    /user/sso
+    type: default | facebook | google
+
+    /user/mapping_account
+    type: default
+* Sua loi
+    - Bỏ redis cache trong policy requireLogin
+* Bo sung
+    - google_aid: bổ sung trong model Account khi register, authorize_facebook, authorize_google, register_quickly
+    - policy validResgiter chống cheat hack
+
+======================================================================================
+11/10/2016
+======================================================================================
+* Sua loi:
+  - Sync type cho account facebook, account google
+======================================================================================
+14/10/2016
+======================================================================================
+* Bo sung:
+  - update_device_info: cập nhật sd trong account
+======================================================================================
+18/10/2016
+======================================================================================
+* Bo sung:
+  - activity logs: log params, header khi dang ky
+  - sync remove_acc_lock: Xoa tat ca account dang lock
+======================================================================================
+25/10/2016
+======================================================================================
+* Chinh sua:
+- update_channel: bo sung channel_cfg, referrer, device_id
+- bo sung channel_cfg trong bang account
+======================================================================================
+31/10/2016
+======================================================================================
+* Sua loi:
+  - google_id
+======================================================================================
+7/11/2016
+======================================================================================
+* Bo sung:
+  - Inside/AccountController
+  - Policies / Router Inside
+======================================================================================
+11/11/2016
+======================================================================================
+* Bo sung:
+- Game/Graph: Tim tat ca msi_id tu account_id
+- Update: Khi tao MSIService se add them vao list_service trong Account

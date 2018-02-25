@@ -1,0 +1,368 @@
+Request Time: 	2017-04-25 08:46:46
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"server_id":"1","server_name":"Ti\u00eau Vi\u00eam [1]","server_id_merge":"1","is_test_server":"0","is_maintenance":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-04-25 08:46:54
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+08%3A46%3A54&app=game&token=43d6ce81400b4a2a875bc2e8c602b025	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 08:47:02
+Url Request:	https://gapi.addgold.net/?control=paycard&func=pay_card&platform=wnap_unknown&ip=127.0.0.1&lang=vn&telco=vms&serial=436666666666666&pin=666666666666666&info=%7B%22character_id%22%3A%2264%22%2C%22character_name%22%3A%22V%5Cu01b0%5Cu1ee3ngNgh%22%2C%22server_id%22%3A%221%22%2C%22card_type%22%3A%220%22%2C%22platform_device%22%3A%22unknown%22%7D&card=vms&service_id=10001&service_name=10001&ppgame_id=10001&account=saunghia&account_id=100011490929287647805&character_id=64&character_name=V%C6%B0%E1%BB%A3ngNgh&server_id=1&transaction_id=kube4rRcYD&app=game&token=c267dd35e384e4b083bddcfe1ccb4798	 {}
+Result:	{"code":null,"desc":"YOUR IP 115.78.161.88 IS REJECT","data":"YOUR IP 115.78.161.88 IS REJECT","message":"YOUR IP 115.78.161.88 IS REJECT"}
+
+Request Time: 	2017-04-25 08:47:13
+Url Request:	https://gapi.addgold.net/?control=paycard&func=pay_card&platform=wnap_unknown&ip=127.0.0.1&lang=vn&telco=vms&serial=555555555555555&pin=55555555555555&info=%7B%22character_id%22%3A%2264%22%2C%22character_name%22%3A%22V%5Cu01b0%5Cu1ee3ngNgh%22%2C%22server_id%22%3A%221%22%2C%22card_type%22%3A%220%22%2C%22platform_device%22%3A%22unknown%22%7D&card=vms&service_id=10001&service_name=10001&ppgame_id=10001&account=saunghia&account_id=100011490929287647805&character_id=64&character_name=V%C6%B0%E1%BB%A3ngNgh&server_id=1&transaction_id=1Kx9RIJx9t&app=game&token=0ce29c63c6e6bdb679b5266f1d9ef71e	 {}
+Result:	{"code":null,"desc":"YOUR IP 115.78.161.88 IS REJECT","data":"YOUR IP 115.78.161.88 IS REJECT","message":"YOUR IP 115.78.161.88 IS REJECT"}
+
+Request Time: 	2017-04-25 08:47:24
+Url Request:	https://gapi.addgold.net/?control=paycard&func=pay_card&platform=wnap_unknown&ip=127.0.0.1&lang=vn&telco=vms&serial=3444444444444&pin=44444444444&info=%7B%22character_id%22%3A%2264%22%2C%22character_name%22%3A%22V%5Cu01b0%5Cu1ee3ngNgh%22%2C%22server_id%22%3A%221%22%2C%22card_type%22%3A%220%22%2C%22platform_device%22%3A%22unknown%22%7D&card=vms&service_id=10001&service_name=10001&ppgame_id=10001&account=saunghia&account_id=100011490929287647805&character_id=64&character_name=V%C6%B0%E1%BB%A3ngNgh&server_id=1&transaction_id=2X4PmYjeG&app=game&token=a164687181b8d4e84887e1c1b4967f40	 {}
+Result:	{"code":null,"desc":"YOUR IP 115.78.161.88 IS REJECT","data":"YOUR IP 115.78.161.88 IS REJECT","message":"YOUR IP 115.78.161.88 IS REJECT"}
+
+Request Time: 	2017-04-25 08:47:36
+Url Request:	https://gapi.addgold.net/?control=paycard&func=pay_card&platform=wnap_unknown&ip=127.0.0.1&lang=vn&telco=vms&serial=44444444444444&pin=444444444444444&info=%7B%22character_id%22%3A%2264%22%2C%22character_name%22%3A%22V%5Cu01b0%5Cu1ee3ngNgh%22%2C%22server_id%22%3A%221%22%2C%22card_type%22%3A%220%22%2C%22platform_device%22%3A%22unknown%22%7D&card=vms&service_id=10001&service_name=10001&ppgame_id=10001&account=saunghia&account_id=100011490929287647805&character_id=64&character_name=V%C6%B0%E1%BB%A3ngNgh&server_id=1&transaction_id=ahBGiyW5XO&app=game&token=4352fbd0ce5e5f0bdacdd9d63ce5800e	 {}
+Result:	{"code":null,"desc":"YOUR IP 115.78.161.88 IS REJECT","data":"YOUR IP 115.78.161.88 IS REJECT","message":"YOUR IP 115.78.161.88 IS REJECT"}
+
+Request Time: 	2017-04-25 08:47:44
+Url Request:	https://gapi.addgold.net/?control=paycard&func=pay_card&platform=wnap_unknown&ip=127.0.0.1&lang=vn&telco=vms&serial=33333333333333&pin=333333333333333&info=%7B%22character_id%22%3A%2264%22%2C%22character_name%22%3A%22V%5Cu01b0%5Cu1ee3ngNgh%22%2C%22server_id%22%3A%221%22%2C%22card_type%22%3A%220%22%2C%22platform_device%22%3A%22unknown%22%7D&card=vms&service_id=10001&service_name=10001&ppgame_id=10001&account=saunghia&account_id=100011490929287647805&character_id=64&character_name=V%C6%B0%E1%BB%A3ngNgh&server_id=1&transaction_id=dqQpTQabWV&app=game&token=b7de4dcc7305b2a9e9cdc57223efa64a	 {}
+Result:	{"code":null,"desc":"YOUR IP 115.78.161.88 IS REJECT","data":"YOUR IP 115.78.161.88 IS REJECT","message":"YOUR IP 115.78.161.88 IS REJECT"}
+
+Request Time: 	2017-04-25 08:47:53
+Url Request:	https://gapi.addgold.net/?control=paycard&func=pay_card&platform=wnap_unknown&ip=127.0.0.1&lang=vn&telco=vms&serial=4444444444444&pin=444444444444444&info=%7B%22character_id%22%3A%2264%22%2C%22character_name%22%3A%22V%5Cu01b0%5Cu1ee3ngNgh%22%2C%22server_id%22%3A%221%22%2C%22card_type%22%3A%220%22%2C%22platform_device%22%3A%22unknown%22%7D&card=vms&service_id=10001&service_name=10001&ppgame_id=10001&account=saunghia&account_id=100011490929287647805&character_id=64&character_name=V%C6%B0%E1%BB%A3ngNgh&server_id=1&transaction_id=GtPLz9xXAv&app=game&token=0ec8b0b8d007a5f91fbd4e41b5c23a08	 {}
+Result:	{"code":null,"desc":"YOUR IP 115.78.161.88 IS REJECT","data":"YOUR IP 115.78.161.88 IS REJECT","message":"YOUR IP 115.78.161.88 IS REJECT"}
+
+Request Time: 	2017-04-25 08:48:01
+Url Request:	https://gapi.addgold.net/?control=paycard&func=pay_card&platform=wnap_unknown&ip=127.0.0.1&lang=vn&telco=vms&serial=333333333333333&pin=33333333333333&info=%7B%22character_id%22%3A%2264%22%2C%22character_name%22%3A%22V%5Cu01b0%5Cu1ee3ngNgh%22%2C%22server_id%22%3A%221%22%2C%22card_type%22%3A%220%22%2C%22platform_device%22%3A%22unknown%22%7D&card=vms&service_id=10001&service_name=10001&ppgame_id=10001&account=saunghia&account_id=100011490929287647805&character_id=64&character_name=V%C6%B0%E1%BB%A3ngNgh&server_id=1&transaction_id=wAUqKgheH4&app=game&token=cf109a85c46fa3821e24551f0f77021f	 {}
+Result:	{"code":null,"desc":"YOUR IP 115.78.161.88 IS REJECT","data":"YOUR IP 115.78.161.88 IS REJECT","message":"YOUR IP 115.78.161.88 IS REJECT"}
+
+Request Time: 	2017-04-25 08:51:53
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+08%3A51%3A53&app=game&token=a736ec29151d83dbf4eb140daee3dec7	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 08:51:58
+Url Request:	https://gapi.addgold.net/?control=paycard&func=pay_card&platform=wnap_unknown&ip=127.0.0.1&lang=vn&telco=gate&serial=333333333333&pin=333333333333333&info=%7B%22character_id%22%3A%2264%22%2C%22character_name%22%3A%22V%5Cu01b0%5Cu1ee3ngNgh%22%2C%22server_id%22%3A%221%22%2C%22card_type%22%3A%220%22%2C%22platform_device%22%3A%22unknown%22%7D&card=gate&service_id=10001&service_name=10001&ppgame_id=10001&account=saunghia&account_id=100011490929287647805&character_id=64&character_name=V%C6%B0%E1%BB%A3ngNgh&server_id=1&transaction_id=NAjIdGRxWM&app=game&token=5fd73909556a4b753ad8c6608ab7c5ab	 {}
+Result:	{"code":null,"desc":"YOUR IP 115.78.161.88 IS REJECT","data":"YOUR IP 115.78.161.88 IS REJECT","message":"YOUR IP 115.78.161.88 IS REJECT"}
+
+Request Time: 	2017-04-25 08:52:09
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+08%3A52%3A09&app=game&token=e02482b23cd7a47d50d5c6f5e3ed2673	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 08:52:14
+Url Request:	https://gapi.addgold.net/?control=paycard&func=pay_card&platform=wnap_unknown&ip=127.0.0.1&lang=vn&telco=gate&serial=333333333333333&pin=333333333333333&info=%7B%22character_id%22%3A%2264%22%2C%22character_name%22%3A%22V%5Cu01b0%5Cu1ee3ngNgh%22%2C%22server_id%22%3A%221%22%2C%22card_type%22%3A%220%22%2C%22platform_device%22%3A%22unknown%22%7D&card=gate&service_id=10001&service_name=10001&ppgame_id=10001&account=saunghia&account_id=100011490929287647805&character_id=64&character_name=V%C6%B0%E1%BB%A3ngNgh&server_id=1&transaction_id=jIw3PFxSKQ&app=game&token=b97408f6f0de0a5254d3a94d2b686989	 {}
+Result:	{"code":null,"desc":"YOUR IP 115.78.161.88 IS REJECT","data":"YOUR IP 115.78.161.88 IS REJECT","message":"YOUR IP 115.78.161.88 IS REJECT"}
+
+Request Time: 	2017-04-25 08:53:28
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+08%3A53%3A28&app=game&token=57364ad38ae2b9655a8c1b2dab28aa24	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 08:53:33
+Url Request:	https://gapi.addgold.net/?control=paycard&func=pay_card&platform=wnap_unknown&ip=127.0.0.1&lang=vn&telco=gate&serial=4444444444&pin=4444444444444&info=%7B%22character_id%22%3A%2264%22%2C%22character_name%22%3A%22V%5Cu01b0%5Cu1ee3ngNgh%22%2C%22server_id%22%3A%221%22%2C%22card_type%22%3A%220%22%2C%22platform_device%22%3A%22unknown%22%7D&card=gate&service_id=10001&service_name=10001&ppgame_id=10001&account=saunghia&account_id=100011490929287647805&character_id=64&character_name=V%C6%B0%E1%BB%A3ngNgh&server_id=1&transaction_id=R4pWFXGLY9&app=game&token=cb10268cb9899073dc40a18bfd53382c	 {}
+Result:	{"code":null,"desc":"YOUR IP 115.78.161.88 IS REJECT","data":"YOUR IP 115.78.161.88 IS REJECT","message":"YOUR IP 115.78.161.88 IS REJECT"}
+
+Request Time: 	2017-04-25 08:57:43
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10000&app=game&token=5d36ce93e6764921de39a7493a8652ad	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"server_id":"1","server_name":"GOK - Production Server [1]","server_id_merge":"1","is_test_server":"0","is_maintenance":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-04-25 08:57:47
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10000&account_id=100001484107858481695&server_id=1&time_stamp=2017-04-25+08%3A57%3A47&app=game&token=18bd385c10f179ae764ff1e7dbbca438	 {}
+Result:	{"code":null,"desc":"GET_GAME_ACCOUNT_NOT_FOUND","data":null,"message":"GET_GAME_ACCOUNT_NOT_FOUND"}
+
+Request Time: 	2017-04-25 08:57:54
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+08%3A57%3A54&app=game&token=8d8681676dc95238c6a360b3ee1d0a1b	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 08:58:04
+Url Request:	https://gapi.addgold.net/?control=paycard&func=pay_card&platform=wnap_unknown&ip=127.0.0.1&lang=vn&telco=gate&serial=45435345345&pin=54545345r&info=%7B%22character_id%22%3A%2264%22%2C%22character_name%22%3A%22V%5Cu01b0%5Cu1ee3ngNgh%22%2C%22server_id%22%3A%221%22%2C%22card_type%22%3A%220%22%2C%22platform_device%22%3A%22unknown%22%7D&card=gate&service_id=10001&service_name=10001&ppgame_id=10001&account=saunghia&account_id=100011490929287647805&character_id=64&character_name=V%C6%B0%E1%BB%A3ngNgh&server_id=1&transaction_id=sn3DgRqGVX&app=game&token=a4c2dd9e5694584b4230c775e489c3b9	 {}
+Result:	{"code":null,"desc":"YOUR IP 115.78.161.88 IS REJECT","data":"YOUR IP 115.78.161.88 IS REJECT","message":"YOUR IP 115.78.161.88 IS REJECT"}
+
+Request Time: 	2017-04-25 08:59:41
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+08%3A59%3A41&app=game&token=ec1b7bced7d1c0a772e7864e5c3f89ae	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:08:48
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A08%3A48&app=game&token=6fb11f3fe674b7268ff751dc2c95fc8b	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:08:53
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A08%3A52&app=game&token=cf3ad67812227a3bd60bcb015d5df33b	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:08:56
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A08%3A56&app=game&token=4ef3f5e9a3bde48427c27e367df31392	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:09:14
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A09%3A14&app=game&token=1caa018a8bd24970832b6cfcfe771653	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:09:21
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A09%3A21&app=game&token=93b60bed5e1be0723d897607b81a59b1	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:09:25
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A09%3A24&app=game&token=fb74b81fb6cd62cc1fbd9e40d6c0835e	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:09:27
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A09%3A27&app=game&token=ed5b4bb88a5dc1f72aa32538fe8a2d01	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:09:29
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A09%3A29&app=game&token=c33ff4c02178696affbc698608727dbd	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:09:44
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A09%3A44&app=game&token=c221c9eeabc696881917b75e76b729b9	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:10:32
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A10%3A32&app=game&token=0e7b9a8400a5294292973876bc4cdee7	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:10:43
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A10%3A43&app=game&token=f712eee15f11c83583615b771b5a7d9a	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:10:46
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A10%3A45&app=game&token=dbdb229ebbf7a21f07483e9f45f84c8b	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:10:50
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A10%3A49&app=game&token=478f564180dde0dd3be7a34f763357af	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:10:54
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A10%3A54&app=game&token=9c8012c84ce7bcc7b7582f37569734b7	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:10:57
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A10%3A57&app=game&token=cdba88aee4cb851c22ec9bdebd9eb171	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:11:00
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A10%3A59&app=game&token=dca34b8b41043a47bd2fa4b302f7f9e2	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:11:05
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A11%3A04&app=game&token=a5f8ac1d58bbc950417fb6f5e5ec803e	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:11:15
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A11%3A14&app=game&token=84b381a5a623db12029b0df80d4ffa8b	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:11:25
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A11%3A25&app=game&token=0eafc8b9c0dca416f2867f8c675bc95b	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:11:28
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A11%3A27&app=game&token=f73a2228597b24b4926910bb6efb1b2f	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:11:33
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A11%3A32&app=game&token=1a3ef6f0d5422eb0ad846d5fabcfbe25	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:11:38
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A11%3A38&app=game&token=abbffaf9967563c42993ade277a9b835	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:11:41
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A11%3A41&app=game&token=e229f5501b57d1585aef02a56d40318e	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:11:43
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A11%3A43&app=game&token=a475ce94bacb300ec36a90f9fea1fb15	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:11:45
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A11%3A45&app=game&token=e3c3e7faebfc283eb0df5a1ba5e8be28	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:11:54
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A11%3A54&app=game&token=01d798a4421a8fd40211ba8c7785bcd7	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:12:54
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A12%3A53&app=game&token=255ab86d386a2f6255b7841cf09e5f8a	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:12:56
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A12%3A56&app=game&token=f5deb18fbb3fbc6191f481b131a69fd1	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:12:59
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A12%3A59&app=game&token=1c67626759eeaef00d8188f676697b18	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:13:01
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A13%3A01&app=game&token=8804eadc886e525d64ffafb8d3126c6f	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:13:03
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A13%3A03&app=game&token=cbd5d5f4835cb43412e51423bba13271	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:13:05
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A13%3A05&app=game&token=25eb85e0b4ae0c8c1d158c15563b418b	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:13:08
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A13%3A07&app=game&token=fd374e2aa82982eb01720b548730e430	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:13:10
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A13%3A10&app=game&token=aeb0519c644b5a32bb221aeaf96368c4	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:15:08
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A15%3A08&app=game&token=489e2018778f359afb9262206437f1c7	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:20:07
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A20%3A06&app=game&token=c746e75a1075151bea2c8afd9b230a22	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:20:10
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A20%3A10&app=game&token=12ebb388c83f044e391612c7b7d5b66f	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:22:36
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A22%3A36&app=game&token=69be073655be5bd605aafc696ea280b5	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 09:22:39
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+09%3A22%3A39&app=game&token=9a162c4fea2438e2a5f8905c8e12d1eb	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 10:33:02
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"server_id":"1","server_name":"Ti\u00eau Vi\u00eam [1]","server_id_merge":"1","is_test_server":"0","is_maintenance":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-04-25 11:35:34
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"server_id":"1","server_name":"Ti\u00eau Vi\u00eam [1]","server_id_merge":"1","is_test_server":"0","is_maintenance":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-04-25 14:06:35
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"server_id":"1","server_name":"Ti\u00eau Vi\u00eam [1]","server_id_merge":"1","is_test_server":"0","is_maintenance":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-04-25 14:06:43
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+14%3A06%3A43&app=game&token=597d7a85d9a309f7da066733124877b0	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 14:27:38
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+14%3A27%3A38&app=game&token=c75e185edd7e43a069cf92a5b96cec14	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 14:52:10
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+14%3A52%3A09&app=game&token=b05060689b09fc9bc6281ababf03e177	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 14:52:31
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+14%3A52%3A31&app=game&token=838a9a7edf93d756e2ccbeb1056e0f24	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 14:52:36
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+14%3A52%3A36&app=game&token=6363f132ff32261626a0a22efc949375	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 14:52:52
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+14%3A52%3A51&app=game&token=0fc176189d4bb4bf309ed32e72b0f0a9	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 14:52:58
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+14%3A52%3A57&app=game&token=b94e876cd4b8f8a9c61105806cac8034	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 14:53:21
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+14%3A53%3A21&app=game&token=eb923bc0e932b3974f0f5c13d7f53a6a	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 14:54:59
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+14%3A54%3A59&app=game&token=5f12d42ba1c773ad6444a35c2889122c	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 14:58:52
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+14%3A58%3A52&app=game&token=11de7ccd9432033c1a2f0756e4837862	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 14:59:29
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+14%3A59%3A29&app=game&token=8496210716022096cb37c551e7bdc832	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 14:59:38
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+14%3A59%3A38&app=game&token=a249e68599cacb32806e1eaeb9429d0a	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 15:00:21
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+15%3A00%3A21&app=game&token=ad1c1eb23c85c13277a11bc131c10100	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 15:00:37
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+15%3A00%3A37&app=game&token=8efb56b2d5839ac75afc5c744a6a7aa9	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 15:46:37
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"server_id":"1","server_name":"Ti\u00eau Vi\u00eam [1]","server_id_merge":"1","is_test_server":"0","is_maintenance":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-04-25 15:46:41
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+15%3A46%3A41&app=game&token=381744a538b16a5026874d2608716cde	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 15:47:42
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+15%3A47%3A42&app=game&token=b23b56cf6aa2630257155385673d03da	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 15:49:15
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+15%3A49%3A15&app=game&token=9744bf2618f73f81e9b5dfe7a2a2dea7	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 16:01:44
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+16%3A01%3A44&app=game&token=0045837303b871fd3309def8c8e04955	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 16:04:39
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+16%3A04%3A39&app=game&token=69cb93637510bd168053307a98b593e7	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 16:08:30
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+16%3A08%3A30&app=game&token=5f950384763cec96a496095da938988c	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 16:18:27
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+16%3A18%3A27&app=game&token=62ff1b04ca1deb15a6b404bcfd2acbe3	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 17:06:40
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"server_id":"1","server_name":"Ti\u00eau Vi\u00eam [1]","server_id_merge":"1","is_test_server":"0","is_maintenance":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-04-25 17:06:45
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+17%3A06%3A45&app=game&token=4d69b52a689156ba2524a93d9790cdb6	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 17:11:02
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+17%3A11%3A02&app=game&token=64c2f7cc2bccf2c7387f717f12f9f4c6	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 17:11:50
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+17%3A11%3A49&app=game&token=587be20d5154df9682ee84f4c838508b	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 17:14:15
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+17%3A14%3A15&app=game&token=c5c856d749eb8a37bfd4f66ac55e6043	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 18:06:04
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+18%3A06%3A04&app=game&token=8b247beab0b3097748eaeb46e25c377f	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-04-25 18:07:54
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"server_id":"1","server_name":"Ti\u00eau Vi\u00eam [1]","server_id_merge":"1","is_test_server":"0","is_maintenance":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-04-25 18:07:56
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-04-25+18%3A07%3A56&app=game&token=53581f2daf28ba83f72503f5ea46d162	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"14"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+

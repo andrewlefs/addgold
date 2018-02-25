@@ -1,0 +1,8 @@
+Request Time: 	2017-08-14 11:05:22
+Url Request:	http://local.nap.addgold.net/search/?data%5Bkey%5D=characterlist&data%5Bdata%5D%5Bmerge_id%5D=1&data%5Bdata%5D%5Bserver_id%5D=1&data%5Bdata%5D%5Bhash_token%5D=znuryVkbtcQIS97%2BR4cYlF9%2FC2HsBitydtKBE1GxJx9FEvBiNtX1hY2kENSvMwD6YKP9hZ1V6WgIS97%2BR4cYlOxUtTDvuOCC1OaZMuszCbeDkZ%2FYaCIZCQj24lFqc4CDRFENA24DGOJ%2FB%2BDTy3b6gF%2BmWQ0U5L3UylwrRLKI1hlKqCdZyjTWJd%2BGYj2Zfrq09At2j1J3ZWpUuTs%2FwJWj1up93ejAVqVNZVjO6%2Bi%2FoEQfH2f87PL4C8LKYNmYh6PYc5NdqOAQitlz%2Bz9D29089SzD6P7nKX%2Fl41OwGDCE2nNpCRN1JpxZD6XKLcw3Mi9yaWdnCJmhQZceRZtair%2BBvW2FVi5z5rqb8wjYBQMYUTo%3D
+Result:	{"code":0,"desc":"","message":"","app":"","data":[{"character_id":"100081499133424824865","character_name":"\u0110\u1ed7Ch\u00ednh","server_id":"1","app_name":"10008","platform_device":"unknown","hash":"UkKnzisfXJHwDPQ37w26aST54qyfY24zrNKAUwNtqBdzxMHlpsCvU\/Ny5QktIVEM08kp3PyFzROoj\/Yh1Yfey5CdfmDPGoNRWlnaQVroyR7mBe7bYQVTiUPO\/5UOGVHIop0BxUdQ6CHrLprvVyp9CaBueAEBCZ58RORQpMy9sRZvuRRtjF5q3J\/UfY+6GZtwgaoH6BpnQn4="}]}
+
+Request Time: 	2017-08-14 11:05:25
+Url Request:	http://local.nap.addgold.net/search/?data%5Bkey%5D=promo&data%5Bdata%5D%5Bmerge_id%5D=1&data%5Bdata%5D%5Bserver_id%5D=1&data%5Bdata%5D%5Bhash_token%5D=znuryVkbtcQIS97%2BR4cYlF9%2FC2HsBitydtKBE1GxJx9FEvBiNtX1hY2kENSvMwD6YKP9hZ1V6WgIS97%2BR4cYlOxUtTDvuOCC1OaZMuszCbeDkZ%2FYaCIZCQj24lFqc4CDRFENA24DGOJ%2FB%2BDTy3b6gF%2BmWQ0U5L3UylwrRLKI1hlKqCdZyjTWJd%2BGYj2Zfrq09At2j1J3ZWpUuTs%2FwJWj1up93ejAVqVNZVjO6%2Bi%2FoEQfH2f87PL4C8LKYNmYh6PYc5NdqOAQitlz%2Bz9D29089SzD6P7nKX%2Fl41OwGDCE2nNpCRN1JpxZD6XKLcw3Mi9yaWdnCJmhQZceRZtair%2BBvW2FVi5z5rqb8wjYBQMYUTo%3D&data%5Bdata%5D%5Bcharacter_id%5D=100081499133424824865
+Result:	{"code":-1,"desc":"","message":"Key is not exists.","app":"","data":[]}
+

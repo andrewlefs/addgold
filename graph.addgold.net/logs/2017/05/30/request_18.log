@@ -1,0 +1,75 @@
+TIME: 2017-05-30 18:37:44
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","accept":"*/*","otp":"133292","app":"graph.dxglobal.net","token":"a5adfe8bb48cfb1dc0cf127f0b2c78e2","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":100,"desc":"INVALID_REQUEST1","data":{"params":{"account_id":"622826840"}}}
+======================
+TIME: 2017-05-30 18:38:05
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","accept":"*/*","otp":"133292","app":"graph.dxglobal.net","token":"a5adfe8bb48cfb1dc0cf127f0b2c78e2","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":100,"desc":"INVALID_REQUEST1","data":{"params":{"account_id":"622826840"}}}
+======================
+TIME: 2017-05-30 18:38:48
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","accept":"*/*","otp":"133292","app":"graph.dxglobal.net","token":"a5adfe8bb48cfb1dc0cf127f0b2c78e2","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":100,"desc":"INVALID_REQUEST1","data":{"params":{"account_id":"622826840"}}}
+======================
+TIME: 2017-05-30 18:38:51
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","accept":"*/*","otp":"133292","app":"graph.dxglobal.net","token":"a5adfe8bb48cfb1dc0cf127f0b2c78e2","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":100,"desc":"INVALID_REQUEST1","data":{"params":{"account_id":"622826840"}}}
+======================
+TIME: 2017-05-30 18:40:01
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":100,"desc":"INVALID_REQUEST1","data":{"params":{"account_id":"622826840"}}}
+======================
+TIME: 2017-05-30 18:40:22
+PARAMS: {"account_id":"622826840","otp":"133292","app":"graph.dxglobal.net","token":"0463d1f3094c65a31b1e9084e0454227"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"SEARCH_GRAPH_SUCCESS","data":{"account":{"account_id":"622826840","type":"facebook","status":"normal","date_create":"2017-05-22T06:41:24.534Z","email":"nguyen@gmail.com","device_id":"da814dd9fda1731bdb5aee84809418c1a979de7c","channel":"empty","facebook_id":"1913851152218623"},"services":{"10000":{"app":"graph.dxglobal.net","msi_id":"100001495371177494457","createdAt":"2017-05-21T12:52:56.879Z","channel":"empty","platform":"android","last_login":"2017-05-21T13:24:32.282Z"},"10001":{"app":"graph.dxglobal.net","msi_id":"100011495435285115507","createdAt":"2017-05-22T06:41:24.541Z","channel":"empty","platform":"android","last_login":"2017-05-22T09:54:29.450Z"}}},"message":"SEARCH_GRAPH_SUCCESS"}
+======================
+TIME: 2017-05-30 18:45:21
+PARAMS: {"account_id":"622826840","otp":"133292","app":"graph.dxglobal.net","token":"dc733e40704179e81cb7b4ecfd35ed3b"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3A6n959rbCRGa5UhpfO0cGEBv5rnCNBljT.sVN7OuBizgMIELjr7Z6lN6325XnX3He%2BkWcNLwghJQA","client_ip":"::1"}
+RESPONSE: {"code":500001,"desc":"SEARCH_GRAPH_SUCCESS","data":{"account":{"account_id":"622826840","type":"facebook","status":"normal","date_create":"2017-05-22T06:41:24.534Z","email":"nguyen@gmail.com","device_id":"da814dd9fda1731bdb5aee84809418c1a979de7c","channel":"empty","facebook_id":"1913851152218623"},"services":{"10000":{"app":"graph.dxglobal.net","msi_id":"100001495371177494457","createdAt":"2017-05-21T12:52:56.879Z","channel":"empty","platform":"android","last_login":"2017-05-21T13:24:32.282Z"},"10001":{"app":"graph.dxglobal.net","msi_id":"100011495435285115507","createdAt":"2017-05-22T06:41:24.541Z","channel":"empty","platform":"android","last_login":"2017-05-22T09:54:29.450Z"}}},"message":"SEARCH_GRAPH_SUCCESS"}
+======================
+TIME: 2017-05-30 18:46:12
+PARAMS: {"account_id":"622826840","otp":"133292","app":"graph.dxglobal.net","token":"a5adfe8bb48cfb1dc0cf127f0b2c78e2"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3A6n959rbCRGa5UhpfO0cGEBv5rnCNBljT.sVN7OuBizgMIELjr7Z6lN6325XnX3He%2BkWcNLwghJQA","if-none-match":"W/\"3d3-/zEqurXRPlLABYbHtO+x7A\"","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"undefined727102E7I2YXVIADSQXWTI","validToken":"209e369e2d74a71b25602384f8b628cb","requesToken":"a5adfe8bb48cfb1dc0cf127f0b2c78e2","otp":"727102","time":1496144772},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-30 18:47:05
+PARAMS: {"account_id":"622826840","otp":"133292","app":"graph.dxglobal.net","token":"a5adfe8bb48cfb1dc0cf127f0b2c78e2"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AfTcUMTcTS4QOqCNEZEmrfFp7oVyYUj2F.hK2NB69k0bSx1Gw%2BY98DtoVe2UejqbVUIOIjxdrnKYA","if-none-match":"W/\"122-KNsysvvjk+z+a2kRjp2Jsg\"","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"undefined302621E7I2YXVIADSQXWTI","validToken":"218f5e866209e58b1d5bbaca0116a243","requesToken":"a5adfe8bb48cfb1dc0cf127f0b2c78e2","otp":"302621","time":1496144825},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-30 18:47:07
+PARAMS: {"account_id":"622826840","otp":"235488","app":"insight","token":"2156c5ae3a5a19fe437160016b1eda05"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"undefined302621E7I2YXVIADSQXWTI","validToken":"218f5e866209e58b1d5bbaca0116a243","requesToken":"2156c5ae3a5a19fe437160016b1eda05","otp":"302621","time":1496144827},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-30 18:47:26
+PARAMS: {"account_id":"622826840","otp":"235488","app":"insight","token":"2156c5ae3a5a19fe437160016b1eda05"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AfTcUMTcTS4QOqCNEZEmrfFp7oVyYUj2F.hK2NB69k0bSx1Gw%2BY98DtoVe2UejqbVUIOIjxdrnKYA","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"undefined302621E7I2YXVIADSQXWTI","validToken":"218f5e866209e58b1d5bbaca0116a243","requesToken":"2156c5ae3a5a19fe437160016b1eda05","otp":"302621","time":1496144846},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-30 18:48:14
+PARAMS: {"account_id":"622826840","otp":"235488","app":"insight","token":"2156c5ae3a5a19fe437160016b1eda05"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AfTcUMTcTS4QOqCNEZEmrfFp7oVyYUj2F.hK2NB69k0bSx1Gw%2BY98DtoVe2UejqbVUIOIjxdrnKYA","if-none-match":"W/\"122-K5eE1UHigwTGdfsSmSFrvw\"","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"undefined357341E7I2YXVIADSQXWTI","validToken":"0d3b777da1fcb801e11cdd0497c3d06c","requesToken":"2156c5ae3a5a19fe437160016b1eda05","otp":"357341","time":1496144894},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-30 18:48:15
+PARAMS: {"account_id":"622826840","otp":"235488","app":"insight","token":"2156c5ae3a5a19fe437160016b1eda05"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AfTcUMTcTS4QOqCNEZEmrfFp7oVyYUj2F.hK2NB69k0bSx1Gw%2BY98DtoVe2UejqbVUIOIjxdrnKYA","if-none-match":"W/\"122-mJrTiJRdklrVafTGbZNNNQ\"","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"undefined357341E7I2YXVIADSQXWTI","validToken":"0d3b777da1fcb801e11cdd0497c3d06c","requesToken":"2156c5ae3a5a19fe437160016b1eda05","otp":"357341","time":1496144895},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-30 18:54:05
+PARAMS: {"account_id":"622826840","otp":"235488"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AfTcUMTcTS4QOqCNEZEmrfFp7oVyYUj2F.hK2NB69k0bSx1Gw%2BY98DtoVe2UejqbVUIOIjxdrnKYA","if-none-match":"W/\"122-OxJIdGzHjKclISg9EHSMQg\"","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"[object Object]543501E7I2YXVIADSQXWTI","validToken":"923ae7b3ab476047b09b3d6009ff18eb","otp":"543501","time":1496145245},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-30 18:54:09
+PARAMS: {"account_id":"622826840","otp":"235488"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AIfqiWHxrfXyUIeyCPbgkR3b_0kTWzS5W.vETrgjR7Cl3VTXJTPPN5lm0ejgGw4rNeYwIfmuHJoKc","if-none-match":"W/\"f1-hn39kkfOvIpwW2+7o7Nipw\"","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"[object Object]543501E7I2YXVIADSQXWTI","validToken":"923ae7b3ab476047b09b3d6009ff18eb","otp":"543501","time":1496145249},"message":"INVALID_TOKEN"}
+======================

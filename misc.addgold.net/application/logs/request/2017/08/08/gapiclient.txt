@@ -1,0 +1,24 @@
+Request Time: 	2017-08-08 09:33:53
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"server_id":"1","server_name":"Ti\u00eau Vi\u00eam [1]","server_id_merge":"1","is_test_server":"0","is_maintenance":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-08-08 09:34:31
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-08-08+09%3A34%3A31&app=game&token=10d161b0fd3bd9c519defa16c0396610	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"40"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+
+Request Time: 	2017-08-08 09:37:10
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"server_id":"1","server_name":"Ti\u00eau Vi\u00eam [1]","server_id_merge":"1","is_test_server":"0","is_maintenance":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-08-08 09:38:54
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"server_id":"1","server_name":"Ti\u00eau Vi\u00eam [1]","server_id_merge":"1","is_test_server":"0","is_maintenance":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-08-08 09:39:18
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"server_id":"1","server_name":"Ti\u00eau Vi\u00eam [1]","server_id_merge":"1","is_test_server":"0","is_maintenance":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-08-08 09:39:32
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10001&account_id=100011490929287647805&server_id=1&time_stamp=2017-08-08+09%3A39%3A32&app=game&token=15bf899365e40861ebb642a32f20f6b0	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"character_name":"V\u01b0\u1ee3ngNgh","character_id":"64","level":"40"}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+

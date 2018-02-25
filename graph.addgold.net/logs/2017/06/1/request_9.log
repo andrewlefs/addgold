@@ -1,0 +1,110 @@
+TIME: 2017-06-1 09:37:14
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:37:49
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:37:53
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:38:40
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:38:41
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:38:41
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:38:41
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:39:03
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:41:04
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:44:43
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:44:47
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:45:36
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:49:53
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:51:28
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:51:31
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:51:57
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:51:58
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:52:56
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:54:46
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:54:46
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:55:15
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================
+TIME: 2017-06-1 09:59:20
+PARAMS: {"account_id":"622826840"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"AUTHORIZE_FAIL","data":"","message":"Đăng nhập thất bại"}
+======================

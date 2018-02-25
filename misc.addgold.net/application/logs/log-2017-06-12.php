@@ -1,0 +1,30 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2017-06-12 17:17:38 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:17:50 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:17:51 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:17:52 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:18:02 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:19:02 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:19:11 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:19:29 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:19:31 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:19:42 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:20:06 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:20:18 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:20:18 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:20:28 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:20:29 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:20:42 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:21:15 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:21:57 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:21:59 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:22:34 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:22:35 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:22:38 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:22:39 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:23:56 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:24:54 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:24:55 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:24:56 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257
+ERROR - 2017-06-12 17:45:13 --> Severity: Notice  --> Only variable references should be returned by reference D:\INSTALL_PROGRAM\wamp64\www\FTP\PP\misc.addgold.net\system\core\Common.php 257

@@ -1,0 +1,66 @@
+<?php
+$lang['login']="Login";
+$lang['username']="Username";
+$lang['password']="Password";
+$lang['authority']="Authority";
+$lang['created']="Created";
+$lang['save']="Save";
+$lang['cancel']="Cancel";
+$lang['done']="Done";
+$lang['fullview']="Full View";
+$lang['navigation']="Quick login";
+$lang['message']="New Message";
+$lang['content-provider']="Content Manage";
+$lang['category']="Category";
+$lang['news']="News";
+$lang['image']="Image";
+$lang['setting']="Setting";
+$lang['user']="User";
+$lang['serviceoperator']="Service Manage";
+$lang['title']="Title";
+$lang['thumb']="Picture";
+$lang['choosefromserver']="Choose Picture";
+$lang['desc']="Description";
+$lang['tag']="Tag";
+$lang['related']="News Concern";
+$lang['menuparent']="Top menu";
+$lang['menuroot']="Origin menu";
+$lang['position']="Position";
+$lang['status']="Status";
+$lang['enable']="Enable";
+$lang['disable']="Disable";
+$lang['startdate']="Start Date";
+$lang['enddate']="End Date";
+$lang['content']="Content";
+$lang['mess_access']="You can't access event !";
+$lang['code_success']="Enter Gift code successfully!";
+$lang['code_falied']="Enter Gift code unsuccessfully!";
+$lang['code_used']="You have entered this Gift code!";
+$lang['code_invalid']="You have entered invalid Gift code!";
+$lang['code_error_inva'] = "You cannot used the same Gift";
+$lang['item_invalid']="Your received gift's information cannot be found ";
+$lang['item_success']="You have received gift successfully. Please check your inbox message.";
+$lang['item_failed']="Take item failed";
+$lang['item_limit']="Take item to limit";
+$lang['system_error'] = "The system is overloaded ";
+$lang['loading_success'] = "Loading success";
+$lang['loading_falied'] = "Loading failed";
+$lang['info_invalid'] = "Invalid information";
+$lang['info_success'] = "Enter infomation successfully";
+$lang["refesh_browser"] = "Please refesh application to continue";
+$lang["device_active"] = "This device is activated beyond limited times.";
+$lang["history_reward"] = "Reward";
+$lang["history_date"] = "CreateDate";
+
+$lang["config_menu_home"] = "Home";
+$lang["config_menu_character"] = "Character";
+$lang["config_menu_server"] = "Main server";
+$lang["config_menu_guide"] = "Newbie Guide";
+
+$lang["config_menu_event"] = "Event";
+$lang["config_menu_guild_game"] = "Game guide";
+
+$lang["buy"] = "Buy";
+$lang["continue"] = "Do you want to continue ?";
+$lang["methodpay"] = "Select a payment method";
+?>

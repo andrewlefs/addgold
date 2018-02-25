@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "youwin-1385",
+  "private_key_id": "01c33851744c3d1f081fa4960ad3a87bf5481d69",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+QgydMp5qckJZ\n+yWEz0mEEWDRAAFId9eH8cPQx9CcHmeVu6JBZHldeSSyutc0mIeqcYmtV3Pd2WEa\nXGsImvxBXX4Mpj8tu8fefwL4NNRLOZJSZ9CTpl4+ji7bDlRasvzKfEFNMKr+b605\nvRIWHp8AUZWM6oB4efhFS3GRvESESeX7or3Ky3kgaaIxXnG6/W99w6bVxf2KJDty\nyLaqw/CLgCBUq0RVqgva/GP5Xq+gjwwRGwYdT/CAISBY8bLuV+eQFaSCn8RYTL3z\ny57UKofDoQ/HS6luKsJxe8Pyb4d62+D6QpWX+c78IPBrYvTkXS+rM2qeR4UvXuwH\n+XsFAETdAgMBAAECggEAAiOvCKqkYDGz/aXX9SRNL+xl3z928IliczHyv+pSDqSW\n9Y9JIsbWyHSfmrr6jBsl0zynfJ3V19ed3Z+TsCdzE4VR8NzlUu/Y82pyyXcknPu0\nV9YlNJGtfIGhD/vz8GBPEFtxN9kBu4mrcZZm3BEpbW/HQ6wFxMPQWOW+1qBmH9bA\nAKb45miAVXEO1JmMFP367G8QujZL2IX2OuIOxsd93iQYBciKeA34QOq8nsr2ZerG\nov3uFTRiTZr+bQvKp5qqlv9U+kxh8V2l5S5FzFSk8jKkYW2xYtMEiDCiHTmXVf2K\nxWgZMxr88DJWy1vz54AHQwHwP3f5eNo7fEIXVcVcYQKBgQDjBl/6zrqylYiKoAHA\n7Jmkxc9xTMJPAXpYhsatA8cBmbq45Rf4InfwvNthiHzzcQSBclWuCPeYoTtiLtKO\nH9WKJ6nabj6tzchVmOZ/55zIZ6wMI1fJiujTqBdgqIsN6tsirUQ1nD4igvuL7Pp/\nhqBa/UDKlC4L5HeGzAOlsmJePQKBgQDWimIKjaVZxZdHenbLbxy8I2zxDS2Wgchm\nwOmy8ZoV8gFB0+ShfuY+N0He83R9pvJNj826ji46LFqUN72sdIhnQ8XUdK3bDywF\nn+fLKZ6IYzOP+KlTU29ekI0emmgtk/JX0+V6701uiP07qTsAEV7ac8WhdF4hARgx\nKejyozOLIQKBgCVpd4etabbkTYwKsj9IvkkZEAZrz9mVNMRB8Zuxc6of21V862ZI\nx9s0RDLeezji9wsd/GChuau9ZjvX23rwZBBQWP1WDZ42uzzf5ZxOXtfnvcKCUIU2\nDwhSOwgCvmecvGAKjaMIDHVDgJCejOlXFjXoZjT8Flp/W/Mqy68SpoNBAoGAUq5I\nNHr8U4mT0KdAqwwqTdN1Q7zpacygmAEWz7DOylBW7bCktxx5zVZsW2kF5vr0/LFD\n/vaWmDLJwb9tqM3MV8fFsSg6bGb/dzd2FFT41OUuVPjnAMbx78bTrAyjw5T126U9\nFlCtTcEbnueMZm1LWfMuIhf/wsZyNVhKf2AoGCECgYEAl4yhqFvsEqKj1LON+IYb\ni7FG54eMdI3Dv7xG21AKBsmgOZYjwMioxSbCYzV29dC2xbefPR4bRR6rK7s8uh2h\nEsbRUab8Pi1R7P4c7+7s8xzmG6DCg9R+HBr9g68gSrFnC26XBqtbPHRk9bAtzSXk\n/D1gM5TWqyfUJztIiRjmDaQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "voided-purchase-api@youwin-1385.iam.gserviceaccount.com",
+  "client_id": "107658451739585133418",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voided-purchase-api%40youwin-1385.iam.gserviceaccount.com"
+}

@@ -1,0 +1,4 @@
+Request Time: 	2017-09-26 13:41:38
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10001&app=game&token=ac654d2a027b391fa63360f84228491b	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"4","server_id":"1","server_name":"S1 - Ti\u00eau Vi\u00eam [1]","server_game_address":"","create_date":"2017-03-29 00:00:00","game":"10001","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"1"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+

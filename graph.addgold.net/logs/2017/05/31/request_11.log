@@ -1,0 +1,90 @@
+TIME: 2017-05-31 11:15:16
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495435285115507","ref_msi":"100001495371177494457"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500000,"desc":"TRANSFER_ACCOUNT_FAIL","data":"","message":"Chuyển tài khoản thất bại"}
+======================
+TIME: 2017-05-31 11:18:41
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495435285115507","ref_msi":"100001495371177494457"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500000,"desc":"TRANSFER_ACCOUNT_FAIL","data":"","message":"Chuyển tài khoản thất bại"}
+======================
+TIME: 2017-05-31 11:22:04
+PARAMS: {"account_id":"622826840","service_id":"10000"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; sails.sid=s%3AnfJOdvMsh5jBcycvuBV7wdevurpm0Mk_.TujK97YuEMc3QmZAPLYy83uu7jFk5q%2B9YgvN%2BhAAsvw; rock_format=json","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"62282684010000088155E7I2YXVIADSQXWTI","validToken":"1d7f0e83555ffac9de77c187f1a24ee4","requesToken":"f075023758978a1f25700d38583bfb96","otp":"088155","time":1496204524},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-31 11:22:05
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495435285115507","ref_msi":"100001495371177494457"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500000,"desc":"TRANSFER_ACCOUNT_FAIL","data":"","message":"Chuyển tài khoản thất bại"}
+======================
+TIME: 2017-05-31 11:22:26
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495435285115507","ref_msi":"100001495371177494457"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500000,"desc":"TRANSFER_ACCOUNT_FAIL","data":"","message":"Chuyển tài khoản thất bại"}
+======================
+TIME: 2017-05-31 11:24:01
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495435285115507","ref_msi":"100001495371177494457"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500000,"desc":"TRANSFER_ACCOUNT_FAIL","data":"","message":"Chuyển tài khoản thất bại"}
+======================
+TIME: 2017-05-31 11:25:31
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495435285115507","ref_msi":"100001495371177494457"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500000,"desc":"TRANSFER_ACCOUNT_FAIL","data":"","message":"Chuyển tài khoản thất bại"}
+======================
+TIME: 2017-05-31 11:27:01
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495435285115507","ref_msi":"100001495371177494457"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":100,"desc":"TRANSFER_ACCOUNT_FAIL1","data":""}
+======================
+TIME: 2017-05-31 11:29:38
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495435285115507","ref_msi":"100001495371177494457"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"TRANSFER_ACCOUNT_SUCCESS","data":{"platform":"android","channel_cfg":"3|pp|1.3.2|GP|psv_3_store","sd":{"aCD":["bLNs7BEO8aDQv7pF8o/0k/1j8K+wiLmJqoIsJomFnzs="],"aD":"WbJsRwOGz29uqYEkvaE8v/KYmYCd5SKBjciE+7lxYP8=","cDb":false,"cR":true,"cS":"37697743DE4AA461D45CFE56781D4356D8C7D45B","e":false,"vI":false},"device_id":"da814dd9fda1731bdb5aee84809418c1a979de7c","telco":"empty","user_agent":"Dalvik/1.6.0 (Linux; U; Android 4.4.2; B505 Build/KOT49H)","channel":"empty","type":"facebook","google_aid":"26A41F84-7C4A-411F-9AEF-7B808B3238F1","status":"normal","account_id":622826840,"createdAt":"2017-05-22T06:41:24.534Z","updatedAt":"2017-05-31T02:58:27.896Z","list_service":[{"app":"10001","msi_id":"100011495435285115507","createdAt":"2017-05-22T06:41:24.541Z"},{"app":"10000","msi_id":"100001495371177494457","createdAt":"2017-05-22T06:41:24.541Z"},{"createdAt":"2017-05-22T06:41:24.534Z"}],"email":"nguyen@gmail.com","password_temp":"96e79218965eb72c92a549dd5a330112","update_time_temp":"2017-05-31T02:58:27.893Z","password":"96e79218965eb72c92a549dd5a330112","phone":"01665348054","id":"592288142570d72b16807b17"},"message":"Chuyển tài khoản thành công"}
+======================
+TIME: 2017-05-31 11:36:24
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495435285115507","ref_msi":"100001495371177494457"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500000,"desc":"TRANSFER_ACCOUNT_FAIL","data":"","message":"Chuyển tài khoản thất bại"}
+======================
+TIME: 2017-05-31 11:36:36
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495371177494457","ref_msi":"100001495435285115507"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500000,"desc":"TRANSFER_ACCOUNT_FAIL","data":"","message":"Chuyển tài khoản thất bại"}
+======================
+TIME: 2017-05-31 11:37:48
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495371177494457","ref_msi":"100001495435285115507"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500000,"desc":"TRANSFER_ACCOUNT_FAIL","data":"","message":"Chuyển tài khoản thất bại"}
+======================
+TIME: 2017-05-31 11:38:05
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495371177494457","ref_msi":"100001495435285115507"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500000,"desc":"TRANSFER_ACCOUNT_FAIL","data":"","message":"Chuyển tài khoản thất bại"}
+======================
+TIME: 2017-05-31 11:39:06
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495371177494457","ref_msi":"100001495435285115507"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500000,"desc":"TRANSFER_ACCOUNT_FAIL","data":"","message":"Chuyển tài khoản thất bại"}
+======================
+TIME: 2017-05-31 11:40:23
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495371177494457","ref_msi":"100001495435285115507"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":100,"desc":"TRANSFER_ACCOUNT_FAIL1","data":""}
+======================
+TIME: 2017-05-31 11:42:35
+PARAMS: {"account_id":"622826840","service_id":"10000"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; sails.sid=s%3AsMXVKkLx6xjS3dshS5qe2MRUC5Fggmat.cSju60BXRy%2FnDPAZ8pKZJSPjfD%2FUQj0QsrwF%2BHmN%2BA4; rock_format=json","if-none-match":"W/\"127-dME/cLCAQ+WYy4YQF2rN+Q\"","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":100,"desc":"INVALID_TOKEN","data":{"raw":"62282684010000068046E7I2YXVIADSQXWTI","validToken":"62e8617e60fa8591c64a9f5613e84826","requesToken":"f075023758978a1f25700d38583bfb96","otp":"068046","time":1496205755},"message":"INVALID_TOKEN"}
+======================
+TIME: 2017-05-31 11:44:15
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495371177494457","ref_msi":"100001495435285115507"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500000,"desc":"TRANSFER_ACCOUNT_FAIL","data":"","message":"Chuyển tài khoản thất bại"}
+======================
+TIME: 2017-05-31 11:44:41
+PARAMS: {"account_id":"622826840","service_id":"10000","msi_id":"100001495435285115507","ref_msi":"100001495371177494457"}
+HEADERS: {"host":"localhost:1337","accept":"*/*","client_ip":"::ffff:127.0.0.1"}
+RESPONSE: {"code":500001,"desc":"TRANSFER_ACCOUNT_SUCCESS","data":[{"app":"10001","msi_id":"100011495435285115507","createdAt":"2017-05-22T06:41:24.541Z"},{"app":"10000","msi_id":"100001495371177494457","createdAt":"2017-05-22T06:41:24.541Z"},{"app":null,"msi_id":null,"createdAt":"2017-05-22T06:41:24.534Z"}],"message":"Chuyển tài khoản thành công"}
+======================

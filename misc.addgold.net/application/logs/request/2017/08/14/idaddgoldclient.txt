@@ -1,0 +1,8 @@
+Request Time: 	2017-08-14 10:32:54
+Url Request:	http://id.addgold.net/v1.0/verify_code?code=1cea18eab379e926f9a4fec6fcdc9610&app=game&token=9989e268f8d9281278fb5934edd41cd3	 {}
+Result:	{"code":100005,"desc":"AUTHORIZE_SUCCESS","message":"","app":"","data":{"access_token":"eyJoYXNoIjoiNThkZDk1M2IxYjdkYzJiMjZkNmY5ZjgyNjQ4Y2NiMmIiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30="}}
+
+Request Time: 	2017-08-14 11:03:45
+Url Request:	http://id.addgold.net/v1.0/verify_code?code=d761f234895581a733d32f123ed7728c&app=game&token=44f254dd47cfe377fb2e6798dc7883e0	 {}
+Result:	{"code":100005,"desc":"AUTHORIZE_SUCCESS","message":"","app":"","data":{"access_token":"eyJoYXNoIjoiYWFkMDNhMDVmZDk2Mzg0OWI2ZTNmMWViMmUzYjQ4ODciLCJtc2lfaWQiOiIxMDAwMDE0OTkzMzI5NDk0NDA0MDQiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDk5MzMyOTQ5NDQwNDA0IiwiaWQiOjk5NjM5OTIyM30="}}
+

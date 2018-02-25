@@ -1,0 +1,84 @@
+Request Time: 	2017-06-12 17:19:29
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:19:31
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:19:42
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:20:06
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:20:18
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:20:19
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:20:28
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:20:29
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:20:42
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:21:15
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:21:57
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:21:59
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:22:34
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:22:35
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:22:38
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:22:39
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%7B	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-06-12 17:23:57
+Url Request:	http://graph.addgold.net/game/verify_access_token?	 {}
+Result:	{"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+
+Request Time: 	2017-06-12 17:24:54
+Url Request:	http://graph.addgold.net/game/verify_access_token?	 {}
+Result:	{"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+
+Request Time: 	2017-06-12 17:24:55
+Url Request:	http://graph.addgold.net/game/verify_access_token?	 {}
+Result:	{"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+
+Request Time: 	2017-06-12 17:24:56
+Url Request:	http://graph.addgold.net/game/verify_access_token?	 {}
+Result:	{"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+
+Request Time: 	2017-06-12 17:45:13
+Url Request:	http://graph.addgold.net/game/verify_access_token?access_token=%B6	 {}
+Result:	{"code":500011,"desc":"VERIFY_ACCESS_TOKEN_FAIL","data":"","message":"Ch\u1ee9ng th\u1ef1c kh\u00f4ng h\u1ee3p l\u1ec7"}
+

@@ -1,0 +1,12 @@
+Request Time: 	2017-08-14 11:03:59
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10008&app=game&token=835d093a70be4e7001ee3d8a88311d85	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"5","server_id":"1","server_name":"S1-B\u00e1 V\u01b0\u01a1ng Ki\u1ebfm [1]","server_game_address":"","create_date":"2017-08-08 00:00:00","game":"10008","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-08-14 11:05:04
+Url Request:	https://gapi.addgold.net/?control=game&func=get_server_list&service_name=10008&app=game&token=835d093a70be4e7001ee3d8a88311d85	 {}
+Result:	{"code":500102,"desc":"GET_INFO_SUCCESS","data":{"data":[{"id":"5","server_id":"1","server_name":"S1-B\u00e1 V\u01b0\u01a1ng Ki\u1ebfm [1]","server_game_address":"","create_date":"2017-08-08 00:00:00","game":"10008","status":"1","server_id_merge":"1","is_test_server":"0","is_maintenance":"0","is_change_item":"0"}]},"message":"L\u1ea5y th\u00f4ng tin t\u00e0i kho\u1ea3n th\u00e0nh c\u00f4ng"}
+
+Request Time: 	2017-08-14 11:05:22
+Url Request:	https://gapi.addgold.net/?control=game&func=get_game_account_info&service_name=10008&account_id=100081499133424824865&server_id=1&time_stamp=2017-08-14+11%3A05%3A21&app=game&token=85940795b66ac82feb764a89bd7273cc	 {}
+Result:	{"code":0,"desc":"GET_GAME_ACCOUNT_INFO_SUCCESS","data":[{"energy":308,"energyCheckTime":1502683523,"silver":4721429,"soul":4085546,"heroSoul":9999,"equip2Point":0,"lingshouPoint":0,"title":1,"arenaCount":0,"vipPoint":0,"battlePoint":10618,"maxBattlePoint":10618,"bagLevel":0,"cardBoxLevel":0,"currLeader":117,"monthCardTime":0,"lastLogin":1502682759,"hashKey":"cwgl7fv","general":[{"typeId":117,"xp":600},{"typeId":405,"xp":0},{"typeId":131,"xp":600},{"typeId":151,"xp":600}],"character_id":"100081499133424824865","character_name":"\u0110\u1ed7Ch\u00ednh","create_time":1502677891,"exp":45450,"lv":30,"gold":395}],"message":"GET_GAME_ACCOUNT_INFO_SUCCESS"}
+

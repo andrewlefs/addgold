@@ -1,0 +1,55 @@
+TIME: 2017-05-29 15:13:48
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; sails.sid=s%3Ay2UVhXnDLraP7axp4Pcr_fzJr2NxjWMV.Y7yy82AWBWs5YH%2Bw4xp32s4LttcHyeyj22A100OkomM; rock_format=json","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_REQUEST1","data":{"params":{"account_id":"622826840","app":"insight","otp":"345804","token":"c99b954ccf1613d44c9549e2f0451336","status":"normal","app_id":"10000"}}}
+======================
+TIME: 2017-05-29 15:28:07
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; sails.sid=s%3Ay2UVhXnDLraP7axp4Pcr_fzJr2NxjWMV.Y7yy82AWBWs5YH%2Bw4xp32s4LttcHyeyj22A100OkomM; rock_format=json","if-none-match":"W/\"10b-/BGWT19xJgHDlLKWFPkXWg\"","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_REQUEST1","data":{"params":{"account_id":"622826840","app":"insight","otp":"345804","token":"c99b954ccf1613d44c9549e2f0451336","status":"normal","app_id":"10000"}}}
+======================
+TIME: 2017-05-29 15:29:57
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3A4ssT1aQz2NE1z6yeKY3QZNch3iuyZNwF.cuUhBVjs2oG4gv7R1Ypnt3hpb45%2FplWXrL0XqSx%2Blik","if-none-match":"W/\"10b-/BGWT19xJgHDlLKWFPkXWg\"","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_REQUEST1","data":{"params":{"account_id":"622826840","app":"insight","otp":"345804","token":"c99b954ccf1613d44c9549e2f0451336","status":"normal","app_id":"10000"}}}
+======================
+TIME: 2017-05-29 15:31:05
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3A4ssT1aQz2NE1z6yeKY3QZNch3iuyZNwF.cuUhBVjs2oG4gv7R1Ypnt3hpb45%2FplWXrL0XqSx%2Blik","if-none-match":"W/\"10b-/BGWT19xJgHDlLKWFPkXWg\"","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"INVALID_REQUEST1","data":{"params":{"account_id":"622826840","app":"insight","otp":"345804","token":"c99b954ccf1613d44c9549e2f0451336","status":"normal","app_id":"10000"}}}
+======================
+TIME: 2017-05-29 15:33:41
+PARAMS: {"account_id":"622826840","app":"insight","otp":"345804","token":"d7fae75331e6fc83948437ae8b6f1cbd","status":"normal","app_id":"10000"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3A4ssT1aQz2NE1z6yeKY3QZNch3iuyZNwF.cuUhBVjs2oG4gv7R1Ypnt3hpb45%2FplWXrL0XqSx%2Blik","if-none-match":"W/\"10b-/BGWT19xJgHDlLKWFPkXWg\"","client_ip":"::1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================
+TIME: 2017-05-29 15:34:40
+PARAMS: {"account_id":"622826840","app":"insight","otp":"345804","token":"7505370265b9bcf218112c3b73085a93","status":"normal","app_id":"10000"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AvYMVuCYdXeAFgTvLGoeyULDXIbnUMdky.0V2fry%2FnN37hUDdD1vcZWvc1YFhNzShV%2BT6ocIfTvnw","if-none-match":"W/\"5a-7928DRctPjrnhmtEM/MaBQ\"","client_ip":"::1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================
+TIME: 2017-05-29 15:34:41
+PARAMS: {"account_id":"622826840","app":"insight","otp":"345804","token":"7505370265b9bcf218112c3b73085a93","status":"normal","app_id":"10000"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AvYMVuCYdXeAFgTvLGoeyULDXIbnUMdky.0V2fry%2FnN37hUDdD1vcZWvc1YFhNzShV%2BT6ocIfTvnw","if-none-match":"W/\"5a-7928DRctPjrnhmtEM/MaBQ\"","client_ip":"::1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================
+TIME: 2017-05-29 15:35:00
+PARAMS: {"account_id":"622826840","app":"insight","otp":"345804","token":"6e09ad8bdf5779209f290d6a014cb724","status":"normal","app_id":"10000","email":"nguyen@gmail.com"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AvYMVuCYdXeAFgTvLGoeyULDXIbnUMdky.0V2fry%2FnN37hUDdD1vcZWvc1YFhNzShV%2BT6ocIfTvnw","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"UPDATE_SUCCESS","data":""}
+======================
+TIME: 2017-05-29 15:36:08
+PARAMS: {"account_id":"622826840","app":"insight","otp":"345804","token":"6824aae12b148d4b8e5497efe3ec8e4e","status":"normal","app_id":"10000","email":"nguyen@gmail.com"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AvYMVuCYdXeAFgTvLGoeyULDXIbnUMdky.0V2fry%2FnN37hUDdD1vcZWvc1YFhNzShV%2BT6ocIfTvnw","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"UPDATE_SUCCESS","data":""}
+======================
+TIME: 2017-05-29 15:37:59
+PARAMS: {"account_id":"622826840","app":"insight","otp":"345804","token":"ef2c5d9a2961372ed4857738777e5df8","status":"normal","app_id":"10000","email":"nguyen@gmail.com","phone":"01665348054"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; sails.sid=s%3A1LMhfzBuNnM_eJ3JAsCMWCoiGz8DIfPS.hDLyEg9eM0qyrAFyum6HkaB5YuQdEEWTdzROAffXCdk; rock_format=json","client_ip":"::1"}
+RESPONSE: {"code":100,"desc":"UPDATE_SUCCESS","data":""}
+======================
+TIME: 2017-05-29 15:52:28
+PARAMS: {"account_id":"622826840","app":"insight","otp":"345804","token":"bb93defa498a57939a0394fdc9042f15","password":"96e79218965eb72c92a549dd5a330112"}
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; sails.sid=s%3A1LMhfzBuNnM_eJ3JAsCMWCoiGz8DIfPS.hDLyEg9eM0qyrAFyum6HkaB5YuQdEEWTdzROAffXCdk; rock_format=json","client_ip":"::1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================

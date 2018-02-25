@@ -1,0 +1,16 @@
+Request Time: 	2017-04-24 16:00:25
+Url Request:	http://id.addgold.net/v1.0/verify_code?code=4aa7d9e6cbdc725435adb5b3a1104e25&app=game&token=256bf446273430e346a407142c7b49bd	 {}
+Result:	{"code":100005,"desc":"AUTHORIZE_SUCCESS","message":"","app":"","data":{"access_token":"eyJoYXNoIjoiNDNiNTVlZDgzMmY1NWMzODU4MDJkMTQyNjc5ZDZjMGEiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30="}}
+
+Request Time: 	2017-04-24 16:12:11
+Url Request:	http://id.addgold.net/v1.0/verify_code?code=5b8fced946339de069a0c30ab5b58d7a&app=game&token=6e00f588e50fbe88c14b8a4c2503b0d8	 {}
+Result:	{"code":100005,"desc":"AUTHORIZE_SUCCESS","message":"","app":"","data":{"access_token":"eyJoYXNoIjoiMzYwYmY4MDIwM2I4NTViOTNlMWQ2ZTYyZjdhM2I0NGYiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30="}}
+
+Request Time: 	2017-04-24 16:20:42
+Url Request:	http://id.addgold.net/v1.0/verify_code?code=47a2dfdc3a52d0f54fb0de82b9e87d98&app=game&token=79accca02c9d0d6c33015a007420b7af	 {}
+Result:	{"code":100005,"desc":"AUTHORIZE_SUCCESS","message":"","app":"","data":{"access_token":"eyJoYXNoIjoiZTg2ZTg1YjVkOTlmYWVhNDVkMWQzMzNkNGJiNTRkYjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30="}}
+
+Request Time: 	2017-04-24 16:51:28
+Url Request:	http://id.addgold.net/v1.0/verify_code?code=91dda710fb9b6ea535e972712b5f3e51&app=game&token=4d78ded6551a1d14919579d3011eb1fe	 {}
+Result:	{"code":100005,"desc":"AUTHORIZE_SUCCESS","message":"","app":"","data":{"access_token":"eyJoYXNoIjoiNDYzMDc5ZGRiYTJhNWFlZGIzZjkwZmY4NzkzN2YzNjQiLCJtc2lfaWQiOiIxMDAwMDE0ODQxMDc4NTg0ODE2OTUiLCJhY2NvdW50X2lkIjoiMTAwMDAxNDg0MTA3ODU4NDgxNjk1IiwiaWQiOjgyNjMzNzE1M30="}}
+

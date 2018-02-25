@@ -1,0 +1,53 @@
+TIME: 2017-05-24 19:11:04
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AUEaUgvcVkAYRYnf2gzzeF0M1lUETGTH_.qMkOmTXg2oU%2BtIs7oUZaCaY2nDDlfl%2FUT7Hu7l986aQ","client_ip":"::1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================
+TIME: 2017-05-24 19:11:05
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AUEaUgvcVkAYRYnf2gzzeF0M1lUETGTH_.qMkOmTXg2oU%2BtIs7oUZaCaY2nDDlfl%2FUT7Hu7l986aQ","client_ip":"::1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================
+TIME: 2017-05-24 19:12:53
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AUEaUgvcVkAYRYnf2gzzeF0M1lUETGTH_.qMkOmTXg2oU%2BtIs7oUZaCaY2nDDlfl%2FUT7Hu7l986aQ","client_ip":"::1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================
+TIME: 2017-05-24 19:12:53
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AUEaUgvcVkAYRYnf2gzzeF0M1lUETGTH_.qMkOmTXg2oU%2BtIs7oUZaCaY2nDDlfl%2FUT7Hu7l986aQ","client_ip":"::1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================
+TIME: 2017-05-24 19:12:54
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AUEaUgvcVkAYRYnf2gzzeF0M1lUETGTH_.qMkOmTXg2oU%2BtIs7oUZaCaY2nDDlfl%2FUT7Hu7l986aQ","client_ip":"::1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================
+TIME: 2017-05-24 19:12:54
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AUEaUgvcVkAYRYnf2gzzeF0M1lUETGTH_.qMkOmTXg2oU%2BtIs7oUZaCaY2nDDlfl%2FUT7Hu7l986aQ","client_ip":"::1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================
+TIME: 2017-05-24 19:12:54
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AUEaUgvcVkAYRYnf2gzzeF0M1lUETGTH_.qMkOmTXg2oU%2BtIs7oUZaCaY2nDDlfl%2FUT7Hu7l986aQ","client_ip":"::1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================
+TIME: 2017-05-24 19:12:54
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AUEaUgvcVkAYRYnf2gzzeF0M1lUETGTH_.qMkOmTXg2oU%2BtIs7oUZaCaY2nDDlfl%2FUT7Hu7l986aQ","client_ip":"::1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================
+TIME: 2017-05-24 19:13:04
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AUEaUgvcVkAYRYnf2gzzeF0M1lUETGTH_.qMkOmTXg2oU%2BtIs7oUZaCaY2nDDlfl%2FUT7Hu7l986aQ","client_ip":"::1"}
+RESPONSE: {"code":102,"desc":"INVALID_PARAMS","data":"","message":"INVALID_PARAMS"}
+======================
+URL
+/report/search?mobo_id=228585360&app=insight&otp=345804&token=c99b954ccf1613d44c9549e2f0451336
+======================
+TIME: 2017-05-24 19:17:19
+PARAMS: undefined
+HEADERS: {"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AUEaUgvcVkAYRYnf2gzzeF0M1lUETGTH_.qMkOmTXg2oU%2BtIs7oUZaCaY2nDDlfl%2FUT7Hu7l986aQ","client_ip":"::1"}
+RESPONSE: {"code":101,"desc":"INVALID_REQUEST","data":{"params":{"mobo_id":"228585360","app":"insight","otp":"345804","token":"c99b954ccf1613d44c9549e2f0451336"},"headers":{"host":"localhost:1337","connection":"keep-alive","cache-control":"max-age=0","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/63.4.154 Chrome/57.4.2987.154 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","accept-encoding":"gzip, deflate, sdch, br","accept-language":"vi-VN,vi;q=0.8,fr-FR;q=0.6,fr;q=0.4,en-US;q=0.2,en;q=0.2","cookie":"_ga=GA1.1.1627206596.1495003441; PHPSESSID=7bt05ou7uildhggbo7tm82l076; rock_format=json; sails.sid=s%3AUEaUgvcVkAYRYnf2gzzeF0M1lUETGTH_.qMkOmTXg2oU%2BtIs7oUZaCaY2nDDlfl%2FUT7Hu7l986aQ","client_ip":"::1"}},"message":"INVALID_REQUEST"}
+======================

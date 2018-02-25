@@ -1,0 +1,12 @@
+Request Time: 	2017-09-26 13:41:02
+Url Request:	http://graph.addgold.net/game/verify_access_token_v2?access_token=eyJoYXNoIjoiNjM2MjhiZmNjYmE2NjNkNDMwZmE5Y2VlN2EwM2YwMzYiLCJtc2lfaWQiOiIxMDAwMjE1MDI4NTc0MDE4ODc2MTkiLCJhY2NvdW50X2lkIjoiMTAwMDIxNTAyODU3NDAxODg3NjE5IiwiaWQiOjgyNjMzNzE1M30%3D	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100021502857401887619","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+
+Request Time: 	2017-09-26 13:41:15
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiNjM2MjhiZmNjYmE2NjNkNDMwZmE5Y2VlN2EwM2YwMzYiLCJtc2lfaWQiOiIxMDAwMjE1MDI4NTc0MDE4ODc2MTkiLCJhY2NvdW50X2lkIjoiMTAwMDIxNTAyODU3NDAxODg3NjE5IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10009	 {}
+Result:	{"code":100,"desc":"ACCOUNT_EXITS","data":""}
+
+Request Time: 	2017-09-26 13:41:32
+Url Request:	http://graph.addgold.net/game/verify_access_token_get_channel?access_token=eyJoYXNoIjoiNjM2MjhiZmNjYmE2NjNkNDMwZmE5Y2VlN2EwM2YwMzYiLCJtc2lfaWQiOiIxMDAwMjE1MDI4NTc0MDE4ODc2MTkiLCJhY2NvdW50X2lkIjoiMTAwMDIxNTAyODU3NDAxODg3NjE5IiwiaWQiOjgyNjMzNzE1M30%3D&app_id=10001	 {}
+Result:	{"code":500010,"desc":"VERIFY_ACCESS_TOKEN_SUCCESS","data":{"id":826337153,"account_id":"100011490929287647805","account":"saunghia","email":"saukt3@gmail.com","channel":"empty","device_id":"2c8676fc7a23a228a2999e380fc2f66c4655a4d5","type":"default","platform":"android"},"message":"Ch\u1ee9ng th\u1ef1c h\u1ee3p l\u1ec7"}
+

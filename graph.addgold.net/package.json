@@ -1,0 +1,54 @@
+{
+  "name": "api.global",
+  "private": true,
+  "version": "0.0.1",
+  "description": "API GLOBAL",
+  "keywords": [],
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "axios": "^0.11.0",
+    "crypto": "0.0.3",
+    "csv-parse": "^1.1.7",
+    "csv-write-stream": "^2.0.0",
+    "ejs": "2.3.4",
+    "gamecenter-identity-verifier": "^0.1.1",
+    "grunt": "0.4.5",
+    "grunt-contrib-clean": "0.6.0",
+    "grunt-contrib-coffee": "0.13.0",
+    "grunt-contrib-concat": "0.5.1",
+    "grunt-contrib-copy": "0.5.0",
+    "grunt-contrib-cssmin": "0.9.0",
+    "grunt-contrib-jst": "0.6.0",
+    "grunt-contrib-less": "1.1.0",
+    "grunt-contrib-uglify": "0.7.0",
+    "grunt-contrib-watch": "0.5.3",
+    "grunt-sails-linker": "~0.10.1",
+    "grunt-sync": "0.2.4",
+    "include-all": "~0.1.6",
+    "ioredis": "^1.15.1",
+    "jssha": "^2.0.2",
+    "lodash": "^4.11.2",
+    "md5": "^2.1.0",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.13.0",
+    "rc": "1.0.1",
+    "sails": "~0.12.3",
+    "sails-disk": "~0.10.9",
+    "sails-mongo": "^0.12.0",
+    "urijs": "^1.18.0"
+  },
+  "scripts": {
+    "debug": "node debug app.js",
+    "start_v1": "nodemon app.js --port 1337"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anonymous node/sails user/testProject.git"
+  },
+  "author": "anonymous node/sails user",
+  "license": "",
+  "devDependencies": {
+    "karma": "^1.7.1"
+  }
+}
